@@ -38,7 +38,7 @@ The following shows the workflow of single input image in the streaming face rec
 6. Show image with bounding boxes and name labels on computer.
 
 
-![image-20180917161604859](/Users/zhaojialin/Library/Application%20Support/typora-user-images/image-20180917161604859.png)
+![image-20180917161604859](image-20180917161604859.png)
 
 <center>  Fig. 1: Face Recognition Streaming System</center>
 

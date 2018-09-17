@@ -1,0 +1,3367 @@
+[1, './WIDER_val/images/0--Parade/0_Parade_Parade_0_829.jpg']
+1.0
+1.0
+[1, './WIDER_val/images/0--Parade/0_Parade_Parade_0_275.jpg']
+0.0
+0.5
+[1, './WIDER_val/images/0--Parade/0_Parade_marchingband_1_818.jpg']
+0.0
+0.333333333333
+[1, './WIDER_val/images/0--Parade/0_Parade_Parade_0_246.jpg']
+0.0
+0.25
+[1, './WIDER_val/images/0--Parade/0_Parade_marchingband_1_356.jpg']
+0.0
+0.2
+[1, './WIDER_val/images/0--Parade/0_Parade_Parade_0_468.jpg']
+1.0
+0.333333333333
+[1, './WIDER_val/images/0--Parade/0_Parade_Parade_0_461.jpg']
+0.0
+0.285714285714
+[1, './WIDER_val/images/0--Parade/0_Parade_Parade_0_757.jpg']
+1.0
+0.375
+[1, './WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_766.jpg']
+1.0
+0.444444444444
+[1, './WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_362.jpg']
+1.0
+0.5
+[1, './WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_522.jpg']
+1.0
+0.545454545455
+[1, './WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_314.jpg']
+1.0
+0.583333333333
+[1, './WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_465.jpg']
+0.0
+0.538461538462
+[1, './WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_94.jpg']
+1.0
+0.571428571429
+[1, './WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_380.jpg']
+0.0
+0.533333333333
+[1, './WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_107.jpg']
+1.0
+0.5625
+[1, './WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_275.jpg']
+1.0
+0.588235294118
+[1, './WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_35.jpg']
+1.0
+0.611111111111
+[1, './WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_457.jpg']
+1.0
+0.631578947368
+[1, './WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_567.jpg']
+1.0
+0.65
+[1, './WIDER_val/images/10--People_Marching/10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_938.jpg']
+1.0
+0.666666666667
+[1, './WIDER_val/images/10--People_Marching/10_People_Marching_People_Marching_2_316.jpg']
+0.0
+0.636363636364
+[1, './WIDER_val/images/10--People_Marching/10_People_Marching_People_Marching_2_934.jpg']
+1.0
+0.652173913043
+[1, './WIDER_val/images/10--People_Marching/10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_1020.jpg']
+0.0
+0.625
+[1, './WIDER_val/images/10--People_Marching/10_People_Marching_People_Marching_2_496.jpg']
+1.0
+0.64
+[1, './WIDER_val/images/10--People_Marching/10_People_Marching_People_Marching_2_638.jpg']
+1.0
+0.653846153846
+[1, './WIDER_val/images/10--People_Marching/10_People_Marching_People_Marching_2_236.jpg']
+0.0
+0.62962962963
+[1, './WIDER_val/images/10--People_Marching/10_People_Marching_People_Marching_2_823.jpg']
+1.0
+0.642857142857
+[1, './WIDER_val/images/10--People_Marching/10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_552.jpg']
+1.0
+0.655172413793
+[1, './WIDER_val/images/10--People_Marching/10_People_Marching_People_Marching_2_935.jpg']
+1.0
+0.666666666667
+[1, './WIDER_val/images/11--Meeting/11_Meeting_Meeting_11_Meeting_Meeting_11_865.jpg']
+1.0
+0.677419354839
+[1, './WIDER_val/images/11--Meeting/11_Meeting_Meeting_11_Meeting_Meeting_11_320.jpg']
+1.0
+0.6875
+[1, './WIDER_val/images/12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_889.jpg']
+1.0
+0.69696969697
+[1, './WIDER_val/images/12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_353.jpg']
+0.0
+0.676470588235
+[1, './WIDER_val/images/12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_313.jpg']
+0.0
+0.657142857143
+[1, './WIDER_val/images/12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_644.jpg']
+1.0
+0.666666666667
+[1, './WIDER_val/images/12--Group/12_Group_Large_Group_12_Group_Large_Group_12_771.jpg']
+1.0
+0.675675675676
+[1, './WIDER_val/images/12--Group/12_Group_Large_Group_12_Group_Large_Group_12_551.jpg']
+1.0
+0.684210526316
+[1, './WIDER_val/images/12--Group/12_Group_Large_Group_12_Group_Large_Group_12_853.jpg']
+1.0
+0.692307692308
+[1, './WIDER_val/images/12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_852.jpg']
+1.0
+0.7
+[1, './WIDER_val/images/12--Group/12_Group_Large_Group_12_Group_Large_Group_12_379.jpg']
+1.0
+0.707317073171
+[1, './WIDER_val/images/12--Group/12_Group_Large_Group_12_Group_Large_Group_12_942.jpg']
+1.0
+0.714285714286
+[1, './WIDER_val/images/12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_868.jpg']
+1.0
+0.720930232558
+[1, './WIDER_val/images/12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_162.jpg']
+1.0
+0.727272727273
+[1, './WIDER_val/images/12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_270.jpg']
+1.0
+0.733333333333
+[1, './WIDER_val/images/12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_319.jpg']
+0.0
+0.717391304348
+[1, './WIDER_val/images/12--Group/12_Group_Group_12_Group_Group_12_772.jpg']
+0.0
+0.702127659574
+[1, './WIDER_val/images/12--Group/12_Group_Large_Group_12_Group_Large_Group_12_112.jpg']
+1.0
+0.708333333333
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_36.jpg']
+1.0
+0.714285714286
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_103.jpg']
+0.0
+0.7
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_940.jpg']
+1.0
+0.705882352941
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_285.jpg']
+1.0
+0.711538461538
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_778.jpg']
+1.0
+0.716981132075
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_420.jpg']
+0.0
+0.703703703704
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_537.jpg']
+0.0
+0.690909090909
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_609.jpg']
+1.0
+0.696428571429
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_241.jpg']
+1.0
+0.701754385965
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_3.jpg']
+1.0
+0.706896551724
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_512.jpg']
+1.0
+0.71186440678
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_884.jpg']
+0.0
+0.7
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_636.jpg']
+1.0
+0.704918032787
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_56.jpg']
+1.0
+0.709677419355
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_569.jpg']
+1.0
+0.714285714286
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_791.jpg']
+1.0
+0.71875
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_477.jpg']
+1.0
+0.723076923077
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_268.jpg']
+1.0
+0.727272727273
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_134.jpg']
+1.0
+0.731343283582
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_736.jpg']
+1.0
+0.735294117647
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_425.jpg']
+1.0
+0.739130434783
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_409.jpg']
+1.0
+0.742857142857
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_166.jpg']
+1.0
+0.746478873239
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_374.jpg']
+1.0
+0.75
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_381.jpg']
+0.0
+0.739726027397
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_937.jpg']
+1.0
+0.743243243243
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_807.jpg']
+1.0
+0.746666666667
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_74.jpg']
+0.0
+0.736842105263
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_238.jpg']
+1.0
+0.74025974026
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_11.jpg']
+0.0
+0.730769230769
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_539.jpg']
+1.0
+0.73417721519
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_461.jpg']
+0.0
+0.725
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_478.jpg']
+1.0
+0.728395061728
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_204.jpg']
+1.0
+0.731707317073
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_513.jpg']
+0.0
+0.722891566265
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_129.jpg']
+1.0
+0.72619047619
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_3.jpg']
+1.0
+0.729411764706
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_406.jpg']
+1.0
+0.732558139535
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_135.jpg']
+1.0
+0.735632183908
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_155.jpg']
+1.0
+0.738636363636
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_15.jpg']
+0.0
+0.730337078652
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_433.jpg']
+1.0
+0.733333333333
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_586.jpg']
+0.0
+0.725274725275
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_554.jpg']
+1.0
+0.728260869565
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_491.jpg']
+1.0
+0.731182795699
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_933.jpg']
+1.0
+0.734042553191
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_208.jpg']
+1.0
+0.736842105263
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_728.jpg']
+1.0
+0.739583333333
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_542.jpg']
+1.0
+0.742268041237
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_849.jpg']
+1.0
+0.744897959184
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_557.jpg']
+0.0
+0.737373737374
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_237.jpg']
+1.0
+0.74
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_107.jpg']
+1.0
+0.742574257426
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_260.jpg']
+1.0
+0.745098039216
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_225.jpg']
+1.0
+0.747572815534
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_759.jpg']
+1.0
+0.75
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_189.jpg']
+1.0
+0.752380952381
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_301.jpg']
+1.0
+0.754716981132
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_779.jpg']
+1.0
+0.757009345794
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_912.jpg']
+1.0
+0.759259259259
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_1032.jpg']
+1.0
+0.761467889908
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_246.jpg']
+1.0
+0.763636363636
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_852.jpg']
+1.0
+0.765765765766
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_237.jpg']
+1.0
+0.767857142857
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_510.jpg']
+0.0
+0.761061946903
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_559.jpg']
+1.0
+0.763157894737
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_541.jpg']
+0.0
+0.75652173913
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_282.jpg']
+1.0
+0.758620689655
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_813.jpg']
+1.0
+0.760683760684
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_691.jpg']
+1.0
+0.762711864407
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_270.jpg']
+1.0
+0.764705882353
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_190.jpg']
+1.0
+0.766666666667
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_773.jpg']
+0.0
+0.760330578512
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_513.jpg']
+1.0
+0.762295081967
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_239.jpg']
+1.0
+0.764227642276
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_33.jpg']
+1.0
+0.766129032258
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_764.jpg']
+1.0
+0.768
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_121.jpg']
+0.0
+0.761904761905
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_347.jpg']
+0.0
+0.755905511811
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_373.jpg']
+1.0
+0.7578125
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_426.jpg']
+0.0
+0.751937984496
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_217.jpg']
+1.0
+0.753846153846
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_456.jpg']
+1.0
+0.75572519084
+[1, './WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_247.jpg']
+1.0
+0.757575757576
+[1, './WIDER_val/images/14--Traffic/14_Traffic_Traffic_14_654.jpg']
+0.0
+0.751879699248
+[1, './WIDER_val/images/14--Traffic/14_Traffic_Traffic_14_675.jpg']
+0.0
+0.746268656716
+[1, './WIDER_val/images/14--Traffic/14_Traffic_Traffic_14_850.jpg']
+1.0
+0.748148148148
+[1, './WIDER_val/images/14--Traffic/14_Traffic_Traffic_14_253.jpg']
+0.0
+0.742647058824
+[1, './WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_731.jpg']
+1.0
+0.744525547445
+[1, './WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_706.jpg']
+1.0
+0.746376811594
+[1, './WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_483.jpg']
+0.0
+0.741007194245
+[1, './WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_303.jpg']
+0.0
+0.735714285714
+[1, './WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_676.jpg']
+0.0
+0.730496453901
+[1, './WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_102.jpg']
+0.0
+0.725352112676
+[1, './WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_846.jpg']
+1.0
+0.727272727273
+[1, './WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_781.jpg']
+1.0
+0.729166666667
+[1, './WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_382.jpg']
+1.0
+0.731034482759
+[1, './WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_751.jpg']
+1.0
+0.732876712329
+[1, './WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_313.jpg']
+0.0
+0.727891156463
+[1, './WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_526.jpg']
+1.0
+0.72972972973
+[1, './WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_301.jpg']
+0.0
+0.724832214765
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_239.jpg']
+1.0
+0.726666666667
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_589.jpg']
+1.0
+0.728476821192
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_84.jpg']
+1.0
+0.730263157895
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_422.jpg']
+1.0
+0.732026143791
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_474.jpg']
+1.0
+0.733766233766
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_467.jpg']
+1.0
+0.735483870968
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_361.jpg']
+1.0
+0.737179487179
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_482.jpg']
+1.0
+0.738853503185
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_134.jpg']
+1.0
+0.740506329114
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_512.jpg']
+1.0
+0.74213836478
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_495.jpg']
+1.0
+0.74375
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_750.jpg']
+1.0
+0.745341614907
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_124.jpg']
+1.0
+0.746913580247
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_135.jpg']
+1.0
+0.748466257669
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_490.jpg']
+1.0
+0.75
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_143.jpg']
+1.0
+0.751515151515
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_338.jpg']
+1.0
+0.753012048193
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_447.jpg']
+1.0
+0.754491017964
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_591.jpg']
+1.0
+0.755952380952
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_637.jpg']
+1.0
+0.757396449704
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_64.jpg']
+1.0
+0.758823529412
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_59.jpg']
+1.0
+0.760233918129
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_311.jpg']
+1.0
+0.761627906977
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_566.jpg']
+1.0
+0.763005780347
+[1, './WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_546.jpg']
+1.0
+0.764367816092
+[1, './WIDER_val/images/17--Ceremony/17_Ceremony_Ceremony_17_444.jpg']
+1.0
+0.765714285714
+[1, './WIDER_val/images/17--Ceremony/17_Ceremony_Ceremony_17_1037.jpg']
+1.0
+0.767045454545
+[1, './WIDER_val/images/17--Ceremony/17_Ceremony_Ceremony_17_735.jpg']
+1.0
+0.768361581921
+[1, './WIDER_val/images/17--Ceremony/17_Ceremony_Ceremony_17_1009.jpg']
+0.0
+0.76404494382
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_381.jpg']
+1.0
+0.765363128492
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_27.jpg']
+1.0
+0.766666666667
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_528.jpg']
+0.0
+0.762430939227
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_349.jpg']
+1.0
+0.763736263736
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_612.jpg']
+0.0
+0.75956284153
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_815.jpg']
+0.0
+0.755434782609
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_252.jpg']
+1.0
+0.756756756757
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_1013.jpg']
+1.0
+0.758064516129
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_257.jpg']
+0.0
+0.754010695187
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_486.jpg']
+0.0
+0.75
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_1016.jpg']
+0.0
+0.746031746032
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_706.jpg']
+1.0
+0.747368421053
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_536.jpg']
+0.0
+0.743455497382
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_872.jpg']
+1.0
+0.744791666667
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_665.jpg']
+1.0
+0.746113989637
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_251.jpg']
+1.0
+0.747422680412
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_910.jpg']
+1.0
+0.748717948718
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_657.jpg']
+0.0
+0.744897959184
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_555.jpg']
+1.0
+0.746192893401
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_1004.jpg']
+1.0
+0.747474747475
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_655.jpg']
+1.0
+0.748743718593
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_402.jpg']
+1.0
+0.75
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_433.jpg']
+1.0
+0.751243781095
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_389.jpg']
+1.0
+0.752475247525
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_828.jpg']
+1.0
+0.753694581281
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_102.jpg']
+0.0
+0.75
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_366.jpg']
+1.0
+0.751219512195
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_693.jpg']
+0.0
+0.747572815534
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_554.jpg']
+1.0
+0.748792270531
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_784.jpg']
+1.0
+0.75
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_350.jpg']
+1.0
+0.751196172249
+[1, './WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_403.jpg']
+0.0
+0.747619047619
+[1, './WIDER_val/images/19--Couple/19_Couple_Couple_19_509.jpg']
+0.0
+0.744075829384
+[1, './WIDER_val/images/19--Couple/19_Couple_Couple_19_31.jpg']
+0.0
+0.740566037736
+[1, './WIDER_val/images/2--Demonstration/2_Demonstration_Political_Rally_2_219.jpg']
+1.0
+0.741784037559
+[1, './WIDER_val/images/2--Demonstration/2_Demonstration_Demonstrators_2_700.jpg']
+1.0
+0.742990654206
+[1, './WIDER_val/images/2--Demonstration/2_Demonstration_Demonstration_Or_Protest_2_795.jpg']
+0.0
+0.739534883721
+[1, './WIDER_val/images/2--Demonstration/2_Demonstration_Political_Rally_2_611.jpg']
+1.0
+0.740740740741
+[1, './WIDER_val/images/2--Demonstration/2_Demonstration_Political_Rally_2_382.jpg']
+1.0
+0.741935483871
+[1, './WIDER_val/images/2--Demonstration/2_Demonstration_Political_Rally_2_566.jpg']
+1.0
+0.743119266055
+[1, './WIDER_val/images/2--Demonstration/2_Demonstration_Demonstration_Or_Protest_2_924.jpg']
+0.0
+0.739726027397
+[1, './WIDER_val/images/2--Demonstration/2_Demonstration_Political_Rally_2_800.jpg']
+0.0
+0.736363636364
+[1, './WIDER_val/images/2--Demonstration/2_Demonstration_Protesters_2_589.jpg']
+0.0
+0.733031674208
+[1, './WIDER_val/images/2--Demonstration/2_Demonstration_Demonstration_Or_Protest_2_942.jpg']
+1.0
+0.734234234234
+[1, './WIDER_val/images/2--Demonstration/2_Demonstration_Political_Rally_2_884.jpg']
+1.0
+0.735426008969
+[1, './WIDER_val/images/2--Demonstration/2_Demonstration_Demonstrators_2_12.jpg']
+0.0
+0.732142857143
+[1, './WIDER_val/images/2--Demonstration/2_Demonstration_Political_Rally_2_172.jpg']
+1.0
+0.733333333333
+[1, './WIDER_val/images/20--Family_Group/20_Family_Group_Family_Group_20_453.jpg']
+0.0
+0.730088495575
+[1, './WIDER_val/images/21--Festival/21_Festival_Festival_21_491.jpg']
+1.0
+0.73127753304
+[1, './WIDER_val/images/21--Festival/21_Festival_Festival_21_785.jpg']
+1.0
+0.732456140351
+[1, './WIDER_val/images/21--Festival/21_Festival_Festival_21_741.jpg']
+0.0
+0.729257641921
+[1, './WIDER_val/images/21--Festival/21_Festival_Festival_21_354.jpg']
+0.0
+0.726086956522
+[1, './WIDER_val/images/21--Festival/21_Festival_Festival_21_881.jpg']
+0.0
+0.722943722944
+[1, './WIDER_val/images/21--Festival/21_Festival_Festival_21_462.jpg']
+1.0
+0.724137931034
+[1, './WIDER_val/images/21--Festival/21_Festival_Festival_21_727.jpg']
+0.0
+0.721030042918
+[1, './WIDER_val/images/21--Festival/21_Festival_Festival_21_640.jpg']
+0.0
+0.717948717949
+[1, './WIDER_val/images/21--Festival/21_Festival_Festival_21_660.jpg']
+1.0
+0.71914893617
+[1, './WIDER_val/images/22--Picnic/22_Picnic_Picnic_22_654.jpg']
+0.0
+0.716101694915
+[1, './WIDER_val/images/22--Picnic/22_Picnic_Picnic_22_354.jpg']
+0.0
+0.713080168776
+[1, './WIDER_val/images/22--Picnic/22_Picnic_Picnic_22_483.jpg']
+0.0
+0.710084033613
+[1, './WIDER_val/images/22--Picnic/22_Picnic_Picnic_22_688.jpg']
+1.0
+0.71129707113
+[1, './WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_854.jpg']
+1.0
+0.7125
+[1, './WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_812.jpg']
+1.0
+0.713692946058
+[1, './WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_514.jpg']
+0.0
+0.710743801653
+[1, './WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_302.jpg']
+1.0
+0.711934156379
+[1, './WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_708.jpg']
+0.0
+0.709016393443
+[1, './WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_167.jpg']
+0.0
+0.70612244898
+[1, './WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_223.jpg']
+1.0
+0.707317073171
+[1, './WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_817.jpg']
+0.0
+0.704453441296
+[1, './WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_665.jpg']
+1.0
+0.70564516129
+[1, './WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_607.jpg']
+1.0
+0.706827309237
+[1, './WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_880.jpg']
+0.0
+0.704
+[1, './WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_543.jpg']
+1.0
+0.705179282869
+[1, './WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_197.jpg']
+1.0
+0.706349206349
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_268.jpg']
+0.0
+0.703557312253
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_372.jpg']
+0.0
+0.700787401575
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_329.jpg']
+0.0
+0.698039215686
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_405.jpg']
+0.0
+0.6953125
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_887.jpg']
+0.0
+0.692607003891
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_67.jpg']
+0.0
+0.68992248062
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_254.jpg']
+0.0
+0.687258687259
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_95.jpg']
+0.0
+0.684615384615
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_129.jpg']
+0.0
+0.681992337165
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_824.jpg']
+1.0
+0.68320610687
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_1037.jpg']
+0.0
+0.680608365019
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_10.jpg']
+0.0
+0.67803030303
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_523.jpg']
+0.0
+0.675471698113
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_368.jpg']
+0.0
+0.672932330827
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_15.jpg']
+0.0
+0.670411985019
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_431.jpg']
+0.0
+0.667910447761
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_812.jpg']
+0.0
+0.665427509294
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_115.jpg']
+0.0
+0.662962962963
+[1, './WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_904.jpg']
+0.0
+0.660516605166
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_467.jpg']
+0.0
+0.658088235294
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_563.jpg']
+0.0
+0.655677655678
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_640.jpg']
+1.0
+0.656934306569
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_882.jpg']
+0.0
+0.654545454545
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_728.jpg']
+1.0
+0.655797101449
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_419.jpg']
+1.0
+0.657039711191
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_936.jpg']
+0.0
+0.654676258993
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_121.jpg']
+0.0
+0.652329749104
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_912.jpg']
+0.0
+0.65
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_16.jpg']
+1.0
+0.651245551601
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_683.jpg']
+1.0
+0.652482269504
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_614.jpg']
+0.0
+0.650176678445
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_173.jpg']
+0.0
+0.647887323944
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_986.jpg']
+0.0
+0.645614035088
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_324.jpg']
+0.0
+0.643356643357
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_585.jpg']
+0.0
+0.641114982578
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_59.jpg']
+0.0
+0.638888888889
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_436.jpg']
+0.0
+0.636678200692
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_169.jpg']
+0.0
+0.634482758621
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_9.jpg']
+0.0
+0.632302405498
+[1, './WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_993.jpg']
+0.0
+0.630136986301
+[1, './WIDER_val/images/26--Soldier_Drilling/26_Soldier_Drilling_Soldiers_Drilling_26_886.jpg']
+0.0
+0.627986348123
+[1, './WIDER_val/images/26--Soldier_Drilling/26_Soldier_Drilling_Soldiers_Drilling_26_710.jpg']
+1.0
+0.62925170068
+[1, './WIDER_val/images/26--Soldier_Drilling/26_Soldier_Drilling_Soldiers_Drilling_26_259.jpg']
+1.0
+0.630508474576
+[1, './WIDER_val/images/26--Soldier_Drilling/26_Soldier_Drilling_Soldiers_Drilling_26_893.jpg']
+0.0
+0.628378378378
+[1, './WIDER_val/images/26--Soldier_Drilling/26_Soldier_Drilling_Soldiers_Drilling_26_184.jpg']
+0.0
+0.626262626263
+[1, './WIDER_val/images/26--Soldier_Drilling/26_Soldier_Drilling_Soldiers_Drilling_26_610.jpg']
+0.0
+0.624161073826
+[1, './WIDER_val/images/27--Spa/27_Spa_Spa_27_420.jpg']
+0.0
+0.622073578595
+[1, './WIDER_val/images/27--Spa/27_Spa_Spa_27_212.jpg']
+0.0
+0.62
+[1, './WIDER_val/images/27--Spa/27_Spa_Spa_27_360.jpg']
+0.0
+0.617940199336
+[1, './WIDER_val/images/27--Spa/27_Spa_Spa_27_691.jpg']
+1.0
+0.619205298013
+[1, './WIDER_val/images/27--Spa/27_Spa_Spa_27_728.jpg']
+0.0
+0.617161716172
+[1, './WIDER_val/images/27--Spa/27_Spa_Spa_27_782.jpg']
+0.0
+0.615131578947
+[1, './WIDER_val/images/27--Spa/27_Spa_Spa_27_329.jpg']
+1.0
+0.616393442623
+[1, './WIDER_val/images/27--Spa/27_Spa_Spa_27_157.jpg']
+0.0
+0.614379084967
+[1, './WIDER_val/images/27--Spa/27_Spa_Spa_27_393.jpg']
+0.0
+0.612377850163
+[1, './WIDER_val/images/27--Spa/27_Spa_Spa_27_225.jpg']
+0.0
+0.61038961039
+[1, './WIDER_val/images/27--Spa/27_Spa_Spa_27_38.jpg']
+1.0
+0.611650485437
+[1, './WIDER_val/images/27--Spa/27_Spa_Spa_27_512.jpg']
+0.0
+0.609677419355
+[1, './WIDER_val/images/27--Spa/27_Spa_Spa_27_322.jpg']
+0.0
+0.607717041801
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_656.jpg']
+0.0
+0.605769230769
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_90.jpg']
+0.0
+0.603833865815
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_683.jpg']
+1.0
+0.605095541401
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_357.jpg']
+0.0
+0.603174603175
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_866.jpg']
+1.0
+0.604430379747
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_826.jpg']
+1.0
+0.605678233438
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_877.jpg']
+1.0
+0.606918238994
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_124.jpg']
+1.0
+0.608150470219
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_86.jpg']
+0.0
+0.60625
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_1018.jpg']
+1.0
+0.607476635514
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_663.jpg']
+1.0
+0.608695652174
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_557.jpg']
+1.0
+0.609907120743
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_770.jpg']
+0.0
+0.608024691358
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_130.jpg']
+1.0
+0.609230769231
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_144.jpg']
+1.0
+0.610429447853
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_711.jpg']
+0.0
+0.608562691131
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_22.jpg']
+1.0
+0.609756097561
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_792.jpg']
+1.0
+0.61094224924
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_880.jpg']
+1.0
+0.612121212121
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_282.jpg']
+1.0
+0.61329305136
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_723.jpg']
+1.0
+0.614457831325
+[1, './WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_697.jpg']
+0.0
+0.612612612613
+[1, './WIDER_val/images/29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_211.jpg']
+1.0
+0.61377245509
+[1, './WIDER_val/images/29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_312.jpg']
+1.0
+0.614925373134
+[1, './WIDER_val/images/29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_451.jpg']
+1.0
+0.616071428571
+[1, './WIDER_val/images/29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_761.jpg']
+1.0
+0.617210682493
+[1, './WIDER_val/images/29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_380.jpg']
+1.0
+0.618343195266
+[1, './WIDER_val/images/29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_436.jpg']
+0.0
+0.616519174041
+[1, './WIDER_val/images/29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_900.jpg']
+1.0
+0.617647058824
+[1, './WIDER_val/images/29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_506.jpg']
+1.0
+0.618768328446
+[1, './WIDER_val/images/29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_148.jpg']
+1.0
+0.619883040936
+[1, './WIDER_val/images/3--Riot/3_Riot_Riot_3_772.jpg']
+1.0
+0.620991253644
+[1, './WIDER_val/images/3--Riot/3_Riot_Riot_3_436.jpg']
+1.0
+0.622093023256
+[1, './WIDER_val/images/3--Riot/3_Riot_Riot_3_123.jpg']
+0.0
+0.620289855072
+[1, './WIDER_val/images/3--Riot/3_Riot_Riot_3_963.jpg']
+1.0
+0.621387283237
+[1, './WIDER_val/images/3--Riot/3_Riot_Riot_3_750.jpg']
+0.0
+0.619596541787
+[1, './WIDER_val/images/3--Riot/3_Riot_Riot_3_166.jpg']
+1.0
+0.620689655172
+[1, './WIDER_val/images/3--Riot/3_Riot_Riot_3_322.jpg']
+0.0
+0.618911174785
+[1, './WIDER_val/images/3--Riot/3_Riot_Riot_3_106.jpg']
+1.0
+0.62
+[1, './WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_862.jpg']
+1.0
+0.621082621083
+[1, './WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_533.jpg']
+1.0
+0.622159090909
+[1, './WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_988.jpg']
+1.0
+0.623229461756
+[1, './WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_749.jpg']
+1.0
+0.624293785311
+[1, './WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_932.jpg']
+1.0
+0.625352112676
+[1, './WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_40.jpg']
+0.0
+0.623595505618
+[1, './WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_696.jpg']
+1.0
+0.624649859944
+[1, './WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_914.jpg']
+1.0
+0.625698324022
+[1, './WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_482.jpg']
+1.0
+0.626740947075
+[1, './WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_486.jpg']
+1.0
+0.627777777778
+[1, './WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_490.jpg']
+1.0
+0.628808864266
+[1, './WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_861.jpg']
+1.0
+0.629834254144
+[1, './WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_840.jpg']
+1.0
+0.63085399449
+[1, './WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_979.jpg']
+1.0
+0.631868131868
+[1, './WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_911.jpg']
+0.0
+0.630136986301
+[1, './WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_865.jpg']
+0.0
+0.628415300546
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_932.jpg']
+1.0
+0.629427792916
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_769.jpg']
+1.0
+0.630434782609
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_740.jpg']
+1.0
+0.631436314363
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_162.jpg']
+0.0
+0.62972972973
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_21.jpg']
+1.0
+0.630727762803
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_613.jpg']
+1.0
+0.631720430108
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_212.jpg']
+0.0
+0.630026809651
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_34.jpg']
+0.0
+0.628342245989
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_230.jpg']
+1.0
+0.629333333333
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_927.jpg']
+0.0
+0.627659574468
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_118.jpg']
+1.0
+0.628647214854
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_276.jpg']
+1.0
+0.62962962963
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_742.jpg']
+1.0
+0.630606860158
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_858.jpg']
+1.0
+0.631578947368
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_410.jpg']
+1.0
+0.632545931759
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_683.jpg']
+0.0
+0.630890052356
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_847.jpg']
+1.0
+0.631853785901
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_722.jpg']
+1.0
+0.6328125
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_267.jpg']
+1.0
+0.633766233766
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_517.jpg']
+1.0
+0.634715025907
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_176.jpg']
+1.0
+0.635658914729
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_888.jpg']
+1.0
+0.636597938144
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_373.jpg']
+1.0
+0.637532133676
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_720.jpg']
+1.0
+0.638461538462
+[1, './WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_915.jpg']
+1.0
+0.639386189258
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_812.jpg']
+1.0
+0.640306122449
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_529.jpg']
+1.0
+0.641221374046
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_135.jpg']
+1.0
+0.642131979695
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_944.jpg']
+0.0
+0.640506329114
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_624.jpg']
+0.0
+0.638888888889
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_42.jpg']
+0.0
+0.637279596977
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_44.jpg']
+1.0
+0.638190954774
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_870.jpg']
+1.0
+0.639097744361
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_494.jpg']
+1.0
+0.64
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_169.jpg']
+1.0
+0.640897755611
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_786.jpg']
+1.0
+0.641791044776
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_468.jpg']
+0.0
+0.640198511166
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_788.jpg']
+0.0
+0.638613861386
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_594.jpg']
+1.0
+0.63950617284
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_1039.jpg']
+1.0
+0.64039408867
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_134.jpg']
+1.0
+0.641277641278
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_512.jpg']
+1.0
+0.642156862745
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_209.jpg']
+0.0
+0.640586797066
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_1038.jpg']
+0.0
+0.639024390244
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_462.jpg']
+0.0
+0.637469586375
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_860.jpg']
+0.0
+0.635922330097
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_400.jpg']
+0.0
+0.634382566586
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_443.jpg']
+1.0
+0.635265700483
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_170.jpg']
+0.0
+0.633734939759
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_262.jpg']
+1.0
+0.634615384615
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_26.jpg']
+0.0
+0.63309352518
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_204.jpg']
+0.0
+0.631578947368
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_116.jpg']
+1.0
+0.63245823389
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_738.jpg']
+0.0
+0.630952380952
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_68.jpg']
+0.0
+0.62945368171
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_434.jpg']
+1.0
+0.630331753555
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_90.jpg']
+0.0
+0.628841607565
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_595.jpg']
+0.0
+0.627358490566
+[1, './WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_566.jpg']
+0.0
+0.625882352941
+[1, './WIDER_val/images/33--Running/33_Running_Running_33_332.jpg']
+1.0
+0.62676056338
+[1, './WIDER_val/images/33--Running/33_Running_Running_33_17.jpg']
+0.0
+0.625292740047
+[1, './WIDER_val/images/33--Running/33_Running_Running_33_760.jpg']
+1.0
+0.626168224299
+[1, './WIDER_val/images/33--Running/33_Running_Running_33_490.jpg']
+1.0
+0.62703962704
+[1, './WIDER_val/images/33--Running/33_Running_Running_33_569.jpg']
+1.0
+0.627906976744
+[1, './WIDER_val/images/33--Running/33_Running_Running_33_341.jpg']
+1.0
+0.628770301624
+[1, './WIDER_val/images/33--Running/33_Running_Running_33_286.jpg']
+0.0
+0.627314814815
+[1, './WIDER_val/images/33--Running/33_Running_Running_33_891.jpg']
+1.0
+0.62817551963
+[1, './WIDER_val/images/33--Running/33_Running_Running_33_475.jpg']
+0.0
+0.626728110599
+[1, './WIDER_val/images/33--Running/33_Running_Running_33_209.jpg']
+1.0
+0.627586206897
+[1, './WIDER_val/images/33--Running/33_Running_Running_33_35.jpg']
+0.0
+0.626146788991
+[1, './WIDER_val/images/33--Running/33_Running_Running_33_538.jpg']
+0.0
+0.62471395881
+[1, './WIDER_val/images/33--Running/33_Running_Running_33_747.jpg']
+0.0
+0.623287671233
+[1, './WIDER_val/images/33--Running/33_Running_Running_33_411.jpg']
+0.0
+0.621867881549
+[1, './WIDER_val/images/33--Running/33_Running_Running_33_203.jpg']
+1.0
+0.622727272727
+[1, './WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_756.jpg']
+0.0
+0.621315192744
+[1, './WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_560.jpg']
+0.0
+0.619909502262
+[1, './WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_608.jpg']
+1.0
+0.620767494357
+[1, './WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_600.jpg']
+0.0
+0.619369369369
+[1, './WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_667.jpg']
+0.0
+0.61797752809
+[1, './WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_585.jpg']
+1.0
+0.618834080717
+[1, './WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_391.jpg']
+0.0
+0.61744966443
+[1, './WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_867.jpg']
+1.0
+0.618303571429
+[1, './WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_895.jpg']
+0.0
+0.616926503341
+[1, './WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_886.jpg']
+0.0
+0.615555555556
+[1, './WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_580.jpg']
+0.0
+0.614190687361
+[1, './WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_171.jpg']
+0.0
+0.612831858407
+[1, './WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_356.jpg']
+1.0
+0.613686534216
+[1, './WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_127.jpg']
+1.0
+0.614537444934
+[1, './WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_829.jpg']
+1.0
+0.615384615385
+[1, './WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_73.jpg']
+0.0
+0.614035087719
+[1, './WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_16.jpg']
+0.0
+0.612691466083
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_36.jpg']
+0.0
+0.61135371179
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_134.jpg']
+1.0
+0.61220043573
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_730.jpg']
+1.0
+0.613043478261
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_431.jpg']
+1.0
+0.613882863341
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_682.jpg']
+0.0
+0.612554112554
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_523.jpg']
+1.0
+0.613390928726
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_199.jpg']
+1.0
+0.614224137931
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_556.jpg']
+1.0
+0.615053763441
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_823.jpg']
+0.0
+0.613733905579
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_209.jpg']
+1.0
+0.614561027837
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_644.jpg']
+1.0
+0.615384615385
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_377.jpg']
+1.0
+0.616204690832
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_491.jpg']
+1.0
+0.617021276596
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_279.jpg']
+0.0
+0.615711252654
+[1, './WIDER_val/images/35--Basketball/35_Basketball_Basketball_35_684.jpg']
+1.0
+0.616525423729
+[1, './WIDER_val/images/35--Basketball/35_Basketball_basketballgame_ball_35_446.jpg']
+0.0
+0.615221987315
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_283.jpg']
+0.0
+0.613924050633
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_11.jpg']
+0.0
+0.612631578947
+[1, './WIDER_val/images/35--Basketball/35_Basketball_basketballgame_ball_35_681.jpg']
+1.0
+0.613445378151
+[1, './WIDER_val/images/35--Basketball/35_Basketball_basketballgame_ball_35_423.jpg']
+1.0
+0.614255765199
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_251.jpg']
+1.0
+0.615062761506
+[1, './WIDER_val/images/35--Basketball/35_Basketball_basketballgame_ball_35_460.jpg']
+1.0
+0.615866388309
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_732.jpg']
+0.0
+0.614583333333
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_13.jpg']
+1.0
+0.615384615385
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_433.jpg']
+1.0
+0.616182572614
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_366.jpg']
+0.0
+0.614906832298
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_511.jpg']
+0.0
+0.613636363636
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_91.jpg']
+1.0
+0.614432989691
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_449.jpg']
+1.0
+0.615226337449
+[1, './WIDER_val/images/35--Basketball/35_Basketball_basketballgame_ball_35_429.jpg']
+1.0
+0.616016427105
+[1, './WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_818.jpg']
+1.0
+0.616803278689
+[1, './WIDER_val/images/35--Basketball/35_Basketball_Basketball_35_791.jpg']
+1.0
+0.617586912065
+[1, './WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_234.jpg']
+1.0
+0.618367346939
+[1, './WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_162.jpg']
+0.0
+0.617107942974
+[1, './WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_301.jpg']
+1.0
+0.617886178862
+[1, './WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_279.jpg']
+0.0
+0.616632860041
+[1, './WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_396.jpg']
+0.0
+0.615384615385
+[1, './WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_526.jpg']
+0.0
+0.614141414141
+[1, './WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_853.jpg']
+1.0
+0.614919354839
+[1, './WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_265.jpg']
+1.0
+0.61569416499
+[1, './WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_456.jpg']
+1.0
+0.616465863454
+[1, './WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_327.jpg']
+0.0
+0.615230460922
+[1, './WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_631.jpg']
+0.0
+0.614
+[1, './WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_647.jpg']
+0.0
+0.612774451098
+[1, './WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_321.jpg']
+0.0
+0.611553784861
+[1, './WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_681.jpg']
+0.0
+0.610337972167
+[1, './WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_273.jpg']
+0.0
+0.609126984127
+[1, './WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_111.jpg']
+0.0
+0.607920792079
+[1, './WIDER_val/images/37--Soccer/37_Soccer_Soccer_37_263.jpg']
+0.0
+0.606719367589
+[1, './WIDER_val/images/37--Soccer/37_Soccer_soccer_ball_37_150.jpg']
+1.0
+0.607495069034
+[1, './WIDER_val/images/37--Soccer/37_Soccer_soccer_ball_37_994.jpg']
+1.0
+0.608267716535
+[1, './WIDER_val/images/37--Soccer/37_Soccer_soccer_ball_37_32.jpg']
+0.0
+0.607072691552
+[1, './WIDER_val/images/37--Soccer/37_Soccer_soccer_ball_37_803.jpg']
+1.0
+0.607843137255
+[1, './WIDER_val/images/37--Soccer/37_Soccer_soccer_ball_37_1001.jpg']
+1.0
+0.608610567515
+[1, './WIDER_val/images/37--Soccer/37_Soccer_soccer_ball_37_512.jpg']
+1.0
+0.609375
+[1, './WIDER_val/images/37--Soccer/37_Soccer_soccer_ball_37_886.jpg']
+1.0
+0.610136452242
+[1, './WIDER_val/images/37--Soccer/37_Soccer_soccer_ball_37_74.jpg']
+0.0
+0.608949416342
+[1, './WIDER_val/images/37--Soccer/37_Soccer_Soccer_37_52.jpg']
+1.0
+0.609708737864
+[1, './WIDER_val/images/37--Soccer/37_Soccer_Soccer_37_565.jpg']
+0.0
+0.608527131783
+[1, './WIDER_val/images/37--Soccer/37_Soccer_soccer_ball_37_281.jpg']
+0.0
+0.607350096712
+[1, './WIDER_val/images/37--Soccer/37_Soccer_soccer_ball_37_685.jpg']
+0.0
+0.606177606178
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_558.jpg']
+0.0
+0.605009633911
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_40.jpg']
+0.0
+0.603846153846
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_142.jpg']
+0.0
+0.602687140115
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_81.jpg']
+1.0
+0.603448275862
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_323.jpg']
+1.0
+0.604206500956
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_497.jpg']
+0.0
+0.603053435115
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_592.jpg']
+1.0
+0.60380952381
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_717.jpg']
+1.0
+0.604562737643
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_300.jpg']
+1.0
+0.605313092979
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_131.jpg']
+1.0
+0.606060606061
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_332.jpg']
+0.0
+0.604914933837
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_23.jpg']
+0.0
+0.603773584906
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_531.jpg']
+0.0
+0.60263653484
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_604.jpg']
+0.0
+0.601503759398
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_94.jpg']
+1.0
+0.602251407129
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_485.jpg']
+0.0
+0.601123595506
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_319.jpg']
+1.0
+0.601869158879
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_420.jpg']
+0.0
+0.600746268657
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_182.jpg']
+1.0
+0.601489757914
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_230.jpg']
+0.0
+0.600371747212
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_240.jpg']
+1.0
+0.601113172542
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_666.jpg']
+0.0
+0.6
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_18.jpg']
+1.0
+0.600739371534
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_128.jpg']
+0.0
+0.59963099631
+[1, './WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_754.jpg']
+1.0
+0.600368324125
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_855.jpg']
+0.0
+0.599264705882
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_200.jpg']
+0.0
+0.598165137615
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_825.jpg']
+0.0
+0.59706959707
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_276.jpg']
+0.0
+0.595978062157
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_487.jpg']
+1.0
+0.596715328467
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_416.jpg']
+0.0
+0.595628415301
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_495.jpg']
+0.0
+0.594545454545
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_382.jpg']
+1.0
+0.595281306715
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_616.jpg']
+0.0
+0.594202898551
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_908.jpg']
+0.0
+0.593128390597
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_668.jpg']
+0.0
+0.592057761733
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_1000.jpg']
+0.0
+0.590990990991
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_777.jpg']
+0.0
+0.589928057554
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_275.jpg']
+1.0
+0.59066427289
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_611.jpg']
+1.0
+0.591397849462
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_765.jpg']
+0.0
+0.590339892665
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_682.jpg']
+1.0
+0.591071428571
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_495.jpg']
+1.0
+0.591800356506
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_595.jpg']
+0.0
+0.590747330961
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_486.jpg']
+1.0
+0.591474245115
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_819.jpg']
+1.0
+0.59219858156
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_458.jpg']
+0.0
+0.591150442478
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_869.jpg']
+0.0
+0.590106007067
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_941.jpg']
+1.0
+0.590828924162
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_270.jpg']
+1.0
+0.591549295775
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_359.jpg']
+0.0
+0.590509666081
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_44.jpg']
+0.0
+0.589473684211
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_249.jpg']
+0.0
+0.588441330998
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_591.jpg']
+0.0
+0.587412587413
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_751.jpg']
+0.0
+0.586387434555
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_817.jpg']
+1.0
+0.587108013937
+[1, './WIDER_val/images/39--Ice_Skating/39_Ice_Skating_iceskiing_39_77.jpg']
+0.0
+0.586086956522
+[1, './WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_1000.jpg']
+1.0
+0.586805555556
+[1, './WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_327.jpg']
+0.0
+0.585788561525
+[1, './WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_384.jpg']
+1.0
+0.586505190311
+[1, './WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_289.jpg']
+0.0
+0.585492227979
+[1, './WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_718.jpg']
+1.0
+0.586206896552
+[1, './WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_162.jpg']
+1.0
+0.586919104991
+[1, './WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_915.jpg']
+1.0
+0.587628865979
+[1, './WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_922.jpg']
+1.0
+0.58833619211
+[1, './WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_21.jpg']
+1.0
+0.58904109589
+[1, './WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_885.jpg']
+1.0
+0.589743589744
+[1, './WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_960.jpg']
+1.0
+0.590443686007
+[1, './WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_878.jpg']
+1.0
+0.591141396934
+[1, './WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_494.jpg']
+1.0
+0.591836734694
+[1, './WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_1028.jpg']
+1.0
+0.592529711375
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_460.jpg']
+1.0
+0.593220338983
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_57.jpg']
+1.0
+0.593908629442
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_1022.jpg']
+1.0
+0.594594594595
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_161.jpg']
+0.0
+0.593591905565
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_980.jpg']
+0.0
+0.592592592593
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_361.jpg']
+0.0
+0.591596638655
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_771.jpg']
+1.0
+0.592281879195
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_740.jpg']
+1.0
+0.592964824121
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_1035.jpg']
+1.0
+0.59364548495
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_197.jpg']
+0.0
+0.59265442404
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_255.jpg']
+0.0
+0.591666666667
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_596.jpg']
+0.0
+0.590682196339
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_171.jpg']
+1.0
+0.591362126246
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_845.jpg']
+1.0
+0.592039800995
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_627.jpg']
+0.0
+0.591059602649
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_894.jpg']
+1.0
+0.59173553719
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_488.jpg']
+0.0
+0.590759075908
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_285.jpg']
+0.0
+0.58978583196
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_47.jpg']
+1.0
+0.590460526316
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_762.jpg']
+0.0
+0.589490968801
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_749.jpg']
+0.0
+0.588524590164
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_138.jpg']
+1.0
+0.589198036007
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_401.jpg']
+1.0
+0.589869281046
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_945.jpg']
+1.0
+0.590538336052
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_242.jpg']
+0.0
+0.589576547231
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_24.jpg']
+0.0
+0.588617886179
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_364.jpg']
+0.0
+0.587662337662
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_389.jpg']
+1.0
+0.588330632091
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_783.jpg']
+0.0
+0.587378640777
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_609.jpg']
+0.0
+0.586429725363
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_612.jpg']
+0.0
+0.585483870968
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_911.jpg']
+0.0
+0.584541062802
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_422.jpg']
+0.0
+0.583601286174
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_108.jpg']
+0.0
+0.582664526485
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_115.jpg']
+1.0
+0.583333333333
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_484.jpg']
+1.0
+0.584
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_1044.jpg']
+1.0
+0.584664536741
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_580.jpg']
+0.0
+0.583732057416
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_566.jpg']
+1.0
+0.584394904459
+[1, './WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_805.jpg']
+1.0
+0.585055643879
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_580.jpg']
+1.0
+0.585714285714
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_35.jpg']
+0.0
+0.584786053883
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_308.jpg']
+0.0
+0.583860759494
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_369.jpg']
+1.0
+0.584518167457
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_935.jpg']
+1.0
+0.585173501577
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_449.jpg']
+0.0
+0.584251968504
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_170.jpg']
+0.0
+0.583333333333
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_379.jpg']
+0.0
+0.582417582418
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_641.jpg']
+0.0
+0.581504702194
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_831.jpg']
+1.0
+0.582159624413
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_883.jpg']
+0.0
+0.58125
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_538.jpg']
+1.0
+0.581903276131
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_283.jpg']
+0.0
+0.580996884735
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_271.jpg']
+0.0
+0.580093312597
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_288.jpg']
+0.0
+0.579192546584
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_68.jpg']
+0.0
+0.578294573643
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_701.jpg']
+1.0
+0.578947368421
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_976.jpg']
+0.0
+0.578052550232
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_610.jpg']
+1.0
+0.578703703704
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_74.jpg']
+0.0
+0.57781201849
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_56.jpg']
+0.0
+0.576923076923
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_773.jpg']
+1.0
+0.57757296467
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_161.jpg']
+0.0
+0.576687116564
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_521.jpg']
+0.0
+0.575803981623
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_535.jpg']
+0.0
+0.574923547401
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_73.jpg']
+0.0
+0.574045801527
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_792.jpg']
+1.0
+0.574695121951
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_358.jpg']
+1.0
+0.575342465753
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_148.jpg']
+0.0
+0.574468085106
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_52.jpg']
+0.0
+0.573596358118
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_483.jpg']
+0.0
+0.572727272727
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_262.jpg']
+1.0
+0.573373676248
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_26.jpg']
+0.0
+0.57250755287
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_106.jpg']
+0.0
+0.571644042232
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_718.jpg']
+1.0
+0.572289156627
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_275.jpg']
+1.0
+0.572932330827
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_232.jpg']
+0.0
+0.572072072072
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_564.jpg']
+0.0
+0.571214392804
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_19.jpg']
+0.0
+0.570359281437
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_26.jpg']
+0.0
+0.569506726457
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_399.jpg']
+1.0
+0.570149253731
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_488.jpg']
+1.0
+0.570789865872
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_1001.jpg']
+0.0
+0.56994047619
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_1028.jpg']
+1.0
+0.570579494799
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_472.jpg']
+0.0
+0.569732937685
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_943.jpg']
+1.0
+0.57037037037
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_376.jpg']
+1.0
+0.57100591716
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_471.jpg']
+1.0
+0.571639586411
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_275.jpg']
+1.0
+0.572271386431
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_113.jpg']
+1.0
+0.572901325479
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_885.jpg']
+1.0
+0.573529411765
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_931.jpg']
+1.0
+0.574155653451
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_55.jpg']
+1.0
+0.574780058651
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_380.jpg']
+0.0
+0.573938506589
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_927.jpg']
+1.0
+0.574561403509
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_507.jpg']
+1.0
+0.575182481752
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_440.jpg']
+0.0
+0.574344023324
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_659.jpg']
+1.0
+0.574963609898
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_711.jpg']
+1.0
+0.575581395349
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_714.jpg']
+0.0
+0.574746008708
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_1002.jpg']
+1.0
+0.575362318841
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_466.jpg']
+1.0
+0.575976845152
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_293.jpg']
+0.0
+0.575144508671
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_128.jpg']
+0.0
+0.574314574315
+[1, './WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_43.jpg']
+0.0
+0.5734870317
+[1, './WIDER_val/images/42--Car_Racing/42_Car_Racing_Car_Racing_42_939.jpg']
+0.0
+0.572661870504
+[1, './WIDER_val/images/42--Car_Racing/42_Car_Racing_Nascar_42_661.jpg']
+1.0
+0.573275862069
+[1, './WIDER_val/images/42--Car_Racing/42_Car_Racing_Nascar_42_482.jpg']
+1.0
+0.573888091822
+[1, './WIDER_val/images/42--Car_Racing/42_Car_Racing_Nascar_42_911.jpg']
+0.0
+0.573065902579
+[1, './WIDER_val/images/42--Car_Racing/42_Car_Racing_Nascar_42_468.jpg']
+1.0
+0.573676680973
+[1, './WIDER_val/images/42--Car_Racing/42_Car_Racing_Nascar_42_900.jpg']
+0.0
+0.572857142857
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Canoe_43_757.jpg']
+0.0
+0.572039942939
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Rowboat_43_688.jpg']
+1.0
+0.57264957265
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Rowboat_43_797.jpg']
+0.0
+0.571834992888
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Canoe_43_881.jpg']
+0.0
+0.571022727273
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Rowboat_43_563.jpg']
+0.0
+0.570212765957
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Rowboat_43_13.jpg']
+0.0
+0.56940509915
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Canoe_43_956.jpg']
+0.0
+0.568599717115
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Rowboat_43_839.jpg']
+1.0
+0.569209039548
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Canoe_43_81.jpg']
+0.0
+0.568406205924
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Canoe_43_51.jpg']
+0.0
+0.567605633803
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Canoe_43_93.jpg']
+0.0
+0.566807313643
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Canoe_43_133.jpg']
+1.0
+0.567415730337
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Canoe_43_341.jpg']
+0.0
+0.566619915849
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Canoe_43_1047.jpg']
+1.0
+0.567226890756
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Canoe_43_372.jpg']
+0.0
+0.566433566434
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Rowboat_43_1024.jpg']
+1.0
+0.567039106145
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Canoe_43_429.jpg']
+0.0
+0.566248256625
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Rowboat_43_500.jpg']
+0.0
+0.565459610028
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Canoe_43_276.jpg']
+0.0
+0.564673157163
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Rowboat_43_287.jpg']
+0.0
+0.563888888889
+[1, './WIDER_val/images/43--Row_Boat/43_Row_Boat_Canoe_43_565.jpg']
+0.0
+0.563106796117
+[1, './WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_659.jpg']
+1.0
+0.563711911357
+[1, './WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_407.jpg']
+1.0
+0.564315352697
+[1, './WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_1032.jpg']
+1.0
+0.564917127072
+[1, './WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_610.jpg']
+1.0
+0.565517241379
+[1, './WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_755.jpg']
+1.0
+0.566115702479
+[1, './WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_184.jpg']
+0.0
+0.565337001376
+[1, './WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_231.jpg']
+1.0
+0.565934065934
+[1, './WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_400.jpg']
+1.0
+0.566529492455
+[1, './WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_71.jpg']
+1.0
+0.567123287671
+[1, './WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_443.jpg']
+1.0
+0.567715458276
+[1, './WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_650.jpg']
+1.0
+0.568306010929
+[1, './WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_937.jpg']
+1.0
+0.568894952251
+[1, './WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_707.jpg']
+0.0
+0.568119891008
+[1, './WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_578.jpg']
+0.0
+0.567346938776
+[1, './WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_120.jpg']
+1.0
+0.567934782609
+[1, './WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_583.jpg']
+1.0
+0.568521031208
+[1, './WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_186.jpg']
+0.0
+0.567750677507
+[1, './WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_531.jpg']
+0.0
+0.56698240866
+[1, './WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_277.jpg']
+1.0
+0.567567567568
+[1, './WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_211.jpg']
+1.0
+0.568151147099
+[1, './WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_217.jpg']
+1.0
+0.568733153639
+[1, './WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_207.jpg']
+0.0
+0.56796769852
+[1, './WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_936.jpg']
+1.0
+0.568548387097
+[1, './WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_160.jpg']
+1.0
+0.569127516779
+[1, './WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_685.jpg']
+0.0
+0.56836461126
+[1, './WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_434.jpg']
+0.0
+0.567603748327
+[1, './WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_142.jpg']
+1.0
+0.568181818182
+[1, './WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_769.jpg']
+0.0
+0.567423230975
+[1, './WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_939.jpg']
+1.0
+0.568
+[1, './WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_550.jpg']
+0.0
+0.5672436751
+[1, './WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_149.jpg']
+1.0
+0.567819148936
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_172.jpg']
+1.0
+0.56839309429
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_537.jpg']
+0.0
+0.567639257294
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_166.jpg']
+0.0
+0.566887417219
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_497.jpg']
+1.0
+0.56746031746
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_823.jpg']
+1.0
+0.568031704095
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_106.jpg']
+0.0
+0.5672823219
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_130.jpg']
+0.0
+0.566534914361
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_923.jpg']
+0.0
+0.565789473684
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_508.jpg']
+0.0
+0.565045992116
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_728.jpg']
+0.0
+0.564304461942
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_393.jpg']
+0.0
+0.563564875491
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_652.jpg']
+1.0
+0.564136125654
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_202.jpg']
+0.0
+0.56339869281
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_259.jpg']
+0.0
+0.562663185379
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_51.jpg']
+1.0
+0.563233376793
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_254.jpg']
+0.0
+0.5625
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_718.jpg']
+0.0
+0.561768530559
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_409.jpg']
+0.0
+0.561038961039
+[1, './WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_758.jpg']
+1.0
+0.561608300908
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_575.jpg']
+1.0
+0.562176165803
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_254.jpg']
+1.0
+0.562742561449
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_715.jpg']
+0.0
+0.562015503876
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_746.jpg']
+0.0
+0.561290322581
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_617.jpg']
+1.0
+0.561855670103
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_785.jpg']
+0.0
+0.561132561133
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_588.jpg']
+0.0
+0.560411311054
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_845.jpg']
+1.0
+0.560975609756
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_193.jpg']
+0.0
+0.560256410256
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_561.jpg']
+1.0
+0.560819462228
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_405.jpg']
+0.0
+0.56010230179
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_812.jpg']
+0.0
+0.55938697318
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_641.jpg']
+1.0
+0.559948979592
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_777.jpg']
+1.0
+0.56050955414
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_703.jpg']
+1.0
+0.56106870229
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_432.jpg']
+0.0
+0.560355781449
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_636.jpg']
+0.0
+0.559644670051
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_610.jpg']
+0.0
+0.558935361217
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_583.jpg']
+1.0
+0.559493670886
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_827.jpg']
+1.0
+0.5600505689
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_179.jpg']
+0.0
+0.559343434343
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_354.jpg']
+0.0
+0.558638083228
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_631.jpg']
+0.0
+0.557934508816
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_177.jpg']
+0.0
+0.557232704403
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_38.jpg']
+0.0
+0.556532663317
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_196.jpg']
+1.0
+0.557089084065
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_936.jpg']
+0.0
+0.556390977444
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_266.jpg']
+1.0
+0.556946182728
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_338.jpg']
+1.0
+0.5575
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_782.jpg']
+0.0
+0.556803995006
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_354.jpg']
+0.0
+0.556109725686
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_171.jpg']
+0.0
+0.555417185554
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_566.jpg']
+0.0
+0.554726368159
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_19.jpg']
+0.0
+0.554037267081
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_778.jpg']
+0.0
+0.553349875931
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_837.jpg']
+1.0
+0.553903345725
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_567.jpg']
+1.0
+0.554455445545
+[1, './WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_710.jpg']
+0.0
+0.553770086527
+[1, './WIDER_val/images/48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_122.jpg']
+1.0
+0.554320987654
+[1, './WIDER_val/images/48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_205.jpg']
+0.0
+0.553637484587
+[1, './WIDER_val/images/48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_695.jpg']
+1.0
+0.554187192118
+[1, './WIDER_val/images/48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_652.jpg']
+1.0
+0.554735547355
+[1, './WIDER_val/images/48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_164.jpg']
+0.0
+0.554054054054
+[1, './WIDER_val/images/48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_596.jpg']
+0.0
+0.553374233129
+[1, './WIDER_val/images/48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_357.jpg']
+1.0
+0.553921568627
+[1, './WIDER_val/images/48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_785.jpg']
+0.0
+0.553243574051
+[1, './WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_203.jpg']
+0.0
+0.552567237164
+[1, './WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_589.jpg']
+1.0
+0.553113553114
+[1, './WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_759.jpg']
+0.0
+0.55243902439
+[1, './WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_656.jpg']
+1.0
+0.552984165652
+[1, './WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_124.jpg']
+1.0
+0.553527980535
+[1, './WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_486.jpg']
+0.0
+0.552855407047
+[1, './WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_903.jpg']
+1.0
+0.553398058252
+[1, './WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_896.jpg']
+0.0
+0.552727272727
+[1, './WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_890.jpg']
+0.0
+0.55205811138
+[1, './WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_337.jpg']
+1.0
+0.552599758162
+[1, './WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_783.jpg']
+1.0
+0.553140096618
+[1, './WIDER_val/images/5--Car_Accident/5_Car_Accident_Accident_5_869.jpg']
+1.0
+0.553679131484
+[1, './WIDER_val/images/5--Car_Accident/5_Car_Accident_Accident_5_735.jpg']
+0.0
+0.553012048193
+[1, './WIDER_val/images/5--Car_Accident/5_Car_Accident_Car_Crash_5_133.jpg']
+0.0
+0.552346570397
+[1, './WIDER_val/images/5--Car_Accident/5_Car_Accident_Accident_5_948.jpg']
+0.0
+0.551682692308
+[1, './WIDER_val/images/5--Car_Accident/5_Car_Accident_Car_Crash_5_492.jpg']
+0.0
+0.551020408163
+[1, './WIDER_val/images/5--Car_Accident/5_Car_Accident_Accident_5_576.jpg']
+0.0
+0.55035971223
+[1, './WIDER_val/images/5--Car_Accident/5_Car_Accident_Car_Crash_5_868.jpg']
+1.0
+0.550898203593
+[1, './WIDER_val/images/5--Car_Accident/5_Car_Accident_Car_Crash_5_365.jpg']
+0.0
+0.55023923445
+[1, './WIDER_val/images/5--Car_Accident/5_Car_Accident_Car_Crash_5_475.jpg']
+0.0
+0.549581839904
+[1, './WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_641.jpg']
+1.0
+0.550119331742
+[1, './WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_410.jpg']
+1.0
+0.550655542312
+[1, './WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_715.jpg']
+0.0
+0.55
+[1, './WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_647.jpg']
+1.0
+0.550535077289
+[1, './WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_654.jpg']
+0.0
+0.549881235154
+[1, './WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_764.jpg']
+1.0
+0.550415183867
+[1, './WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_189.jpg']
+0.0
+0.549763033175
+[1, './WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_birthdayparty_50_479.jpg']
+1.0
+0.550295857988
+[1, './WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_birthdayparty_50_144.jpg']
+1.0
+0.550827423168
+[1, './WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_birthdayparty_50_196.jpg']
+1.0
+0.551357733176
+[1, './WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_749.jpg']
+1.0
+0.551886792453
+[1, './WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_180.jpg']
+1.0
+0.552414605418
+[1, './WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_649.jpg']
+1.0
+0.552941176471
+[1, './WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_720.jpg']
+1.0
+0.553466509988
+[1, './WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_birthdayparty_50_464.jpg']
+1.0
+0.553990610329
+[1, './WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_735.jpg']
+1.0
+0.554513481829
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_1041.jpg']
+1.0
+0.555035128806
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_789.jpg']
+1.0
+0.555555555556
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_815.jpg']
+1.0
+0.556074766355
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_633.jpg']
+1.0
+0.556592765461
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_465.jpg']
+1.0
+0.55710955711
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_13.jpg']
+1.0
+0.557625145518
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_161.jpg']
+1.0
+0.558139534884
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_306.jpg']
+1.0
+0.558652729384
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_106.jpg']
+1.0
+0.559164733179
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_1031.jpg']
+1.0
+0.559675550406
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_612.jpg']
+1.0
+0.560185185185
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_536.jpg']
+1.0
+0.560693641618
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_386.jpg']
+1.0
+0.561200923788
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_327.jpg']
+1.0
+0.561707035755
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_388.jpg']
+1.0
+0.562211981567
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_837.jpg']
+1.0
+0.562715765247
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_139.jpg']
+1.0
+0.563218390805
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_348.jpg']
+1.0
+0.563719862227
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_96.jpg']
+1.0
+0.564220183486
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_340.jpg']
+1.0
+0.564719358534
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_736.jpg']
+1.0
+0.565217391304
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_398.jpg']
+1.0
+0.565714285714
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_113.jpg']
+1.0
+0.566210045662
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_748.jpg']
+1.0
+0.566704675029
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_670.jpg']
+1.0
+0.567198177677
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_226.jpg']
+1.0
+0.567690557452
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_178.jpg']
+1.0
+0.568181818182
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_17.jpg']
+1.0
+0.568671963678
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_580.jpg']
+1.0
+0.569160997732
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_233.jpg']
+0.0
+0.568516421291
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_451.jpg']
+1.0
+0.569004524887
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_512.jpg']
+0.0
+0.568361581921
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_741.jpg']
+1.0
+0.568848758465
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_94.jpg']
+1.0
+0.569334836528
+[1, './WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_874.jpg']
+1.0
+0.56981981982
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_721.jpg']
+1.0
+0.570303712036
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_359.jpg']
+0.0
+0.569662921348
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_30.jpg']
+0.0
+0.569023569024
+[1, './WIDER_val/images/52--Photographers/52_Photographers_taketouristphotos_52_661.jpg']
+1.0
+0.569506726457
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_358.jpg']
+0.0
+0.568868980963
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_125.jpg']
+0.0
+0.568232662192
+[1, './WIDER_val/images/52--Photographers/52_Photographers_taketouristphotos_52_97.jpg']
+0.0
+0.567597765363
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_61.jpg']
+0.0
+0.566964285714
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_653.jpg']
+0.0
+0.566332218506
+[1, './WIDER_val/images/52--Photographers/52_Photographers_taketouristphotos_52_328.jpg']
+0.0
+0.56570155902
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_456.jpg']
+1.0
+0.566184649611
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_506.jpg']
+0.0
+0.565555555556
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_780.jpg']
+0.0
+0.564927857936
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_76.jpg']
+0.0
+0.564301552106
+[1, './WIDER_val/images/52--Photographers/52_Photographers_taketouristphotos_52_51.jpg']
+1.0
+0.564784053156
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_90.jpg']
+0.0
+0.564159292035
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_416.jpg']
+1.0
+0.564640883978
+[1, './WIDER_val/images/52--Photographers/52_Photographers_taketouristphotos_52_536.jpg']
+0.0
+0.564017660044
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_815.jpg']
+1.0
+0.564498346196
+[1, './WIDER_val/images/52--Photographers/52_Photographers_taketouristphotos_52_659.jpg']
+0.0
+0.563876651982
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_84.jpg']
+0.0
+0.563256325633
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_743.jpg']
+0.0
+0.562637362637
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_113.jpg']
+1.0
+0.563117453348
+[1, './WIDER_val/images/52--Photographers/52_Photographers_taketouristphotos_52_86.jpg']
+1.0
+0.563596491228
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_759.jpg']
+1.0
+0.564074479737
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_776.jpg']
+0.0
+0.563457330416
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_310.jpg']
+0.0
+0.562841530055
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_428.jpg']
+0.0
+0.562227074236
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_568.jpg']
+1.0
+0.562704471101
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_303.jpg']
+0.0
+0.562091503268
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_96.jpg']
+0.0
+0.561479869423
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_755.jpg']
+0.0
+0.560869565217
+[1, './WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_807.jpg']
+1.0
+0.561346362649
+[1, './WIDER_val/images/53--Raid/53_Raid_policeraid_53_280.jpg']
+0.0
+0.560737527115
+[1, './WIDER_val/images/53--Raid/53_Raid_policeraid_53_438.jpg']
+1.0
+0.561213434453
+[1, './WIDER_val/images/53--Raid/53_Raid_policeraid_53_396.jpg']
+1.0
+0.561688311688
+[1, './WIDER_val/images/53--Raid/53_Raid_policeraid_53_555.jpg']
+0.0
+0.561081081081
+[1, './WIDER_val/images/53--Raid/53_Raid_policeraid_53_597.jpg']
+1.0
+0.561555075594
+[1, './WIDER_val/images/53--Raid/53_Raid_policeraid_53_829.jpg']
+0.0
+0.560949298813
+[1, './WIDER_val/images/53--Raid/53_Raid_policeraid_53_471.jpg']
+1.0
+0.561422413793
+[1, './WIDER_val/images/53--Raid/53_Raid_policeraid_53_860.jpg']
+1.0
+0.561894510226
+[1, './WIDER_val/images/53--Raid/53_Raid_policeraid_53_951.jpg']
+1.0
+0.562365591398
+[1, './WIDER_val/images/54--Rescue/54_Rescue_rescuepeople_54_254.jpg']
+1.0
+0.56283566058
+[1, './WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_724.jpg']
+0.0
+0.562231759657
+[1, './WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_789.jpg']
+0.0
+0.561629153269
+[1, './WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_458.jpg']
+1.0
+0.562098501071
+[1, './WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_153.jpg']
+0.0
+0.561497326203
+[1, './WIDER_val/images/54--Rescue/54_Rescue_rescuepeople_54_526.jpg']
+0.0
+0.560897435897
+[1, './WIDER_val/images/54--Rescue/54_Rescue_rescuepeople_54_328.jpg']
+1.0
+0.5613660619
+[1, './WIDER_val/images/54--Rescue/54_Rescue_rescuepeople_54_1035.jpg']
+1.0
+0.561833688699
+[1, './WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_420.jpg']
+1.0
+0.562300319489
+[1, './WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_103.jpg']
+1.0
+0.562765957447
+[1, './WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_939.jpg']
+1.0
+0.563230605739
+[1, './WIDER_val/images/54--Rescue/54_Rescue_rescuepeople_54_493.jpg']
+0.0
+0.562632696391
+[1, './WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_814.jpg']
+0.0
+0.562036055143
+[1, './WIDER_val/images/54--Rescue/54_Rescue_rescuepeople_54_158.jpg']
+1.0
+0.5625
+[1, './WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_327.jpg']
+1.0
+0.562962962963
+[1, './WIDER_val/images/54--Rescue/54_Rescue_rescuepeople_54_557.jpg']
+0.0
+0.562367864693
+[1, './WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_969.jpg']
+0.0
+0.561774023231
+[1, './WIDER_val/images/54--Rescue/54_Rescue_rescuepeople_54_208.jpg']
+0.0
+0.561181434599
+[1, './WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_617.jpg']
+0.0
+0.560590094837
+[1, './WIDER_val/images/54--Rescue/54_Rescue_rescuepeople_54_531.jpg']
+1.0
+0.561052631579
+[1, './WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_478.jpg']
+0.0
+0.560462670873
+[1, './WIDER_val/images/54--Rescue/54_Rescue_rescuepeople_54_738.jpg']
+1.0
+0.560924369748
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_325.jpg']
+1.0
+0.561385099685
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_620.jpg']
+0.0
+0.560796645702
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_1027.jpg']
+1.0
+0.561256544503
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_414.jpg']
+0.0
+0.560669456067
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_50.jpg']
+1.0
+0.561128526646
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_711.jpg']
+0.0
+0.560542797495
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_298.jpg']
+1.0
+0.561001042753
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_640.jpg']
+0.0
+0.560416666667
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_245.jpg']
+1.0
+0.56087408949
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_838.jpg']
+1.0
+0.561330561331
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_1015.jpg']
+1.0
+0.561786085151
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_154.jpg']
+0.0
+0.561203319502
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_894.jpg']
+1.0
+0.561658031088
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_343.jpg']
+1.0
+0.562111801242
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_637.jpg']
+1.0
+0.562564632885
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_1013.jpg']
+1.0
+0.563016528926
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_523.jpg']
+1.0
+0.56346749226
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_951.jpg']
+1.0
+0.563917525773
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_263.jpg']
+1.0
+0.564366632338
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_12.jpg']
+0.0
+0.56378600823
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_183.jpg']
+1.0
+0.564234326824
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_721.jpg']
+1.0
+0.564681724846
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_726.jpg']
+1.0
+0.565128205128
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_770.jpg']
+0.0
+0.564549180328
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_208.jpg']
+1.0
+0.564994882293
+[1, './WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_218.jpg']
+0.0
+0.564417177914
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_796.jpg']
+1.0
+0.564862104188
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_777.jpg']
+0.0
+0.564285714286
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_346.jpg']
+1.0
+0.564729867482
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_531.jpg']
+0.0
+0.564154786151
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_1011.jpg']
+1.0
+0.564598168871
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_764.jpg']
+0.0
+0.564024390244
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_887.jpg']
+0.0
+0.56345177665
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_103.jpg']
+1.0
+0.563894523327
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_712.jpg']
+1.0
+0.564336372847
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_842.jpg']
+1.0
+0.564777327935
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_747.jpg']
+1.0
+0.565217391304
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_873.jpg']
+1.0
+0.565656565657
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_378.jpg']
+1.0
+0.566094853683
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_579.jpg']
+0.0
+0.565524193548
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_140.jpg']
+1.0
+0.565961732125
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_460.jpg']
+0.0
+0.565392354125
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_441.jpg']
+0.0
+0.564824120603
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_953.jpg']
+1.0
+0.565261044177
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_323.jpg']
+1.0
+0.565697091274
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_782.jpg']
+0.0
+0.565130260521
+[1, './WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_1046.jpg']
+1.0
+0.565565565566
+[1, './WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_926.jpg']
+1.0
+0.566
+[1, './WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_153.jpg']
+1.0
+0.566433566434
+[1, './WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_250.jpg']
+0.0
+0.565868263473
+[1, './WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_515.jpg']
+0.0
+0.565304087737
+[1, './WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_589.jpg']
+0.0
+0.564741035857
+[1, './WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_17.jpg']
+0.0
+0.564179104478
+[1, './WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_394.jpg']
+0.0
+0.563618290258
+[1, './WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_868.jpg']
+1.0
+0.56405163853
+[1, './WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_900.jpg']
+1.0
+0.564484126984
+[1, './WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_401.jpg']
+0.0
+0.563924677899
+[1, './WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_796.jpg']
+1.0
+0.564356435644
+[1, './WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_803.jpg']
+1.0
+0.564787339268
+[1, './WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_559.jpg']
+0.0
+0.564229249012
+[1, './WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_182.jpg']
+0.0
+0.563672260612
+[1, './WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_870.jpg']
+0.0
+0.563116370809
+[1, './WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_600.jpg']
+1.0
+0.56354679803
+[1, './WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_764.jpg']
+1.0
+0.563976377953
+[1, './WIDER_val/images/58--Hockey/58_Hockey_icehockey_puck_58_184.jpg']
+0.0
+0.563421828909
+[1, './WIDER_val/images/58--Hockey/58_Hockey_icehockey_puck_58_455.jpg']
+1.0
+0.563850687623
+[1, './WIDER_val/images/58--Hockey/58_Hockey_icehockey_puck_58_531.jpg']
+1.0
+0.564278704612
+[1, './WIDER_val/images/58--Hockey/58_Hockey_icehockey_puck_58_697.jpg']
+1.0
+0.564705882353
+[1, './WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_592.jpg']
+0.0
+0.564152791381
+[1, './WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_978.jpg']
+1.0
+0.56457925636
+[1, './WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_906.jpg']
+1.0
+0.565004887586
+[1, './WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_789.jpg']
+0.0
+0.564453125
+[1, './WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_27.jpg']
+1.0
+0.56487804878
+[1, './WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_1014.jpg']
+0.0
+0.56432748538
+[1, './WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_95.jpg']
+1.0
+0.564751703992
+[1, './WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_229.jpg']
+1.0
+0.565175097276
+[1, './WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_34.jpg']
+1.0
+0.565597667638
+[1, './WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_85.jpg']
+1.0
+0.566019417476
+[1, './WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_117.jpg']
+0.0
+0.565470417071
+[1, './WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_1038.jpg']
+1.0
+0.565891472868
+[1, './WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_357.jpg']
+0.0
+0.565343659245
+[1, './WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_725.jpg']
+0.0
+0.564796905222
+[1, './WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_172.jpg']
+0.0
+0.564251207729
+[1, './WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_64.jpg']
+1.0
+0.564671814672
+[1, './WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_928.jpg']
+1.0
+0.565091610415
+[1, './WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_483.jpg']
+1.0
+0.565510597303
+[1, './WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_280.jpg']
+0.0
+0.564966313763
+[1, './WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_444.jpg']
+1.0
+0.565384615385
+[1, './WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_937.jpg']
+1.0
+0.565802113353
+[1, './WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_690.jpg']
+1.0
+0.566218809981
+[1, './WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_941.jpg']
+1.0
+0.566634707574
+[1, './WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_1005.jpg']
+1.0
+0.567049808429
+[1, './WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_779.jpg']
+0.0
+0.566507177033
+[1, './WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_315.jpg']
+1.0
+0.566921606119
+[1, './WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_790.jpg']
+1.0
+0.567335243553
+[1, './WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_461.jpg']
+1.0
+0.567748091603
+[1, './WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_861.jpg']
+1.0
+0.568160152526
+[1, './WIDER_val/images/61--Street_Battle/61_Street_Battle_streetfight_61_640.jpg']
+0.0
+0.567619047619
+[1, './WIDER_val/images/61--Street_Battle/61_Street_Battle_streetfight_61_50.jpg']
+1.0
+0.568030447193
+[1, './WIDER_val/images/61--Street_Battle/61_Street_Battle_streetfight_61_521.jpg']
+1.0
+0.568441064639
+[1, './WIDER_val/images/61--Street_Battle/61_Street_Battle_streetfight_61_22.jpg']
+1.0
+0.568850902184
+[1, './WIDER_val/images/61--Street_Battle/61_Street_Battle_streetfight_61_344.jpg']
+0.0
+0.568311195446
+[1, './WIDER_val/images/61--Street_Battle/61_Street_Battle_streetfight_61_375.jpg']
+1.0
+0.568720379147
+[1, './WIDER_val/images/61--Street_Battle/61_Street_Battle_streetfight_61_703.jpg']
+1.0
+0.569128787879
+[1, './WIDER_val/images/61--Street_Battle/61_Street_Battle_streetfight_61_407.jpg']
+1.0
+0.569536423841
+[1, './WIDER_val/images/7--Cheering/7_Cheering_Cheering_7_655.jpg']
+1.0
+0.569943289225
+[1, './WIDER_val/images/7--Cheering/7_Cheering_Cheering_7_426.jpg']
+0.0
+0.56940509915
+[1, './WIDER_val/images/7--Cheering/7_Cheering_Cheering_7_500.jpg']
+1.0
+0.569811320755
+[1, './WIDER_val/images/7--Cheering/7_Cheering_Cheering_7_293.jpg']
+0.0
+0.569274269557
+[1, './WIDER_val/images/7--Cheering/7_Cheering_Cheering_7_469.jpg']
+0.0
+0.568738229755
+[1, './WIDER_val/images/7--Cheering/7_Cheering_Cheering_7_239.jpg']
+1.0
+0.569143932267
+[1, './WIDER_val/images/7--Cheering/7_Cheering_Cheering_7_835.jpg']
+1.0
+0.56954887218
+[1, './WIDER_val/images/7--Cheering/7_Cheering_Cheering_7_802.jpg']
+1.0
+0.569953051643
+[1, './WIDER_val/images/7--Cheering/7_Cheering_Cheering_7_739.jpg']
+1.0
+0.570356472795
+[1, './WIDER_val/images/8--Election_Campain/8_Election_Campain_Election_Campaign_8_269.jpg']
+1.0
+0.570759137769
+[1, './WIDER_val/images/8--Election_Campain/8_Election_Campain_Election_Campaign_8_553.jpg']
+1.0
+0.571161048689
+[1, './WIDER_val/images/8--Election_Campain/8_Election_Campain_Election_Campaign_8_451.jpg']
+1.0
+0.571562207671
+[1, './WIDER_val/images/8--Election_Campain/8_Election_Campain_Election_Campaign_8_69.jpg']
+1.0
+0.571962616822
+[1, './WIDER_val/images/8--Election_Campain/8_Election_Campain_Election_Campaign_8_357.jpg']
+0.0
+0.571428571429
+[1, './WIDER_val/images/8--Election_Campain/8_Election_Campain_Election_Campaign_8_529.jpg']
+1.0
+0.571828358209
+[1, './WIDER_val/images/8--Election_Campain/8_Election_Campain_Election_Campaign_8_120.jpg']
+1.0
+0.572227399814
+[1, './WIDER_val/images/8--Election_Campain/8_Election_Campain_Election_Campaign_8_25.jpg']
+1.0
+0.572625698324
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_907.jpg']
+1.0
+0.573023255814
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_784.jpg']
+1.0
+0.573420074349
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_352.jpg']
+1.0
+0.573816155989
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_492.jpg']
+1.0
+0.574211502783
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_141.jpg']
+1.0
+0.574606116775
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_357.jpg']
+1.0
+0.575
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_571.jpg']
+1.0
+0.575393154487
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_344.jpg']
+1.0
+0.575785582255
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_849.jpg']
+1.0
+0.576177285319
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_520.jpg']
+1.0
+0.576568265683
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_297.jpg']
+0.0
+0.576036866359
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_332.jpg']
+1.0
+0.576427255985
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_432.jpg']
+1.0
+0.576816927323
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_924.jpg']
+1.0
+0.577205882353
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_209.jpg']
+1.0
+0.577594123049
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_636.jpg']
+1.0
+0.577981651376
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_252.jpg']
+1.0
+0.578368469294
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_615.jpg']
+1.0
+0.578754578755
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_933.jpg']
+1.0
+0.579139981702
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_945.jpg']
+1.0
+0.579524680073
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_748.jpg']
+1.0
+0.579908675799
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_607.jpg']
+1.0
+0.580291970803
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_34.jpg']
+1.0
+0.580674567001
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_258.jpg']
+1.0
+0.581056466302
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_431.jpg']
+1.0
+0.58143767061
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_872.jpg']
+1.0
+0.581818181818
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_883.jpg']
+1.0
+0.582198001817
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_161.jpg']
+1.0
+0.582577132486
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_343.jpg']
+1.0
+0.582955575703
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_710.jpg']
+1.0
+0.583333333333
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_658.jpg']
+1.0
+0.58371040724
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_632.jpg']
+1.0
+0.584086799277
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_196.jpg']
+1.0
+0.584462511292
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_767.jpg']
+1.0
+0.584837545126
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_552.jpg']
+1.0
+0.585211902615
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_595.jpg']
+1.0
+0.585585585586
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_43.jpg']
+1.0
+0.58595859586
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_828.jpg']
+1.0
+0.586330935252
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_278.jpg']
+1.0
+0.586702605571
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_391.jpg']
+1.0
+0.587073608618
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_757.jpg']
+1.0
+0.587443946188
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_930.jpg']
+1.0
+0.587813620072
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_114.jpg']
+1.0
+0.58818263205
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_182.jpg']
+1.0
+0.5885509839
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_147.jpg']
+1.0
+0.588918677391
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_594.jpg']
+1.0
+0.589285714286
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_613.jpg']
+1.0
+0.589652096343
+[1, './WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_521.jpg']
+1.0
+0.590017825312
+accuracy over all = 0.590017825312

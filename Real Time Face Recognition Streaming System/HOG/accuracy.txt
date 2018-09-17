@@ -1,0 +1,2254 @@
+1 ./WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_766.jpg
+1.0
+1.0
+1 ./WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_362.jpg
+0.0
+0.5
+1 ./WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_465.jpg
+0.0
+0.333333333333
+1 ./WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_94.jpg
+1.0
+0.5
+1 ./WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_380.jpg
+0.0
+0.4
+1 ./WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_107.jpg
+1.0
+0.5
+1 ./WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_275.jpg
+1.0
+0.571428571429
+1 ./WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_35.jpg
+1.0
+0.625
+1 ./WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_457.jpg
+1.0
+0.666666666667
+1 ./WIDER_val/images/1--Handshaking/1_Handshaking_Handshaking_1_567.jpg
+1.0
+0.7
+1 ./WIDER_val/images/10--People_Marching/10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_938.jpg
+1.0
+0.727272727273
+1 ./WIDER_val/images/10--People_Marching/10_People_Marching_People_Marching_2_316.jpg
+0.0
+0.666666666667
+1 ./WIDER_val/images/10--People_Marching/10_People_Marching_People_Marching_2_934.jpg
+1.0
+0.692307692308
+1 ./WIDER_val/images/10--People_Marching/10_People_Marching_People_Marching_2_638.jpg
+1.0
+0.714285714286
+1 ./WIDER_val/images/10--People_Marching/10_People_Marching_People_Marching_2_823.jpg
+1.0
+0.733333333333
+1 ./WIDER_val/images/10--People_Marching/10_People_Marching_People_Marching_2_935.jpg
+1.0
+0.75
+1 ./WIDER_val/images/11--Meeting/11_Meeting_Meeting_11_Meeting_Meeting_11_865.jpg
+1.0
+0.764705882353
+1 ./WIDER_val/images/11--Meeting/11_Meeting_Meeting_11_Meeting_Meeting_11_320.jpg
+1.0
+0.777777777778
+1 ./WIDER_val/images/12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_353.jpg
+0.0
+0.736842105263
+1 ./WIDER_val/images/12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_644.jpg
+1.0
+0.75
+1 ./WIDER_val/images/12--Group/12_Group_Large_Group_12_Group_Large_Group_12_771.jpg
+0.0
+0.714285714286
+1 ./WIDER_val/images/12--Group/12_Group_Large_Group_12_Group_Large_Group_12_551.jpg
+0.0
+0.681818181818
+1 ./WIDER_val/images/12--Group/12_Group_Large_Group_12_Group_Large_Group_12_853.jpg
+1.0
+0.695652173913
+1 ./WIDER_val/images/12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_852.jpg
+1.0
+0.708333333333
+1 ./WIDER_val/images/12--Group/12_Group_Large_Group_12_Group_Large_Group_12_379.jpg
+1.0
+0.72
+1 ./WIDER_val/images/12--Group/12_Group_Large_Group_12_Group_Large_Group_12_942.jpg
+1.0
+0.730769230769
+1 ./WIDER_val/images/12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_162.jpg
+1.0
+0.740740740741
+1 ./WIDER_val/images/12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_319.jpg
+0.0
+0.714285714286
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_36.jpg
+1.0
+0.724137931034
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_103.jpg
+1.0
+0.733333333333
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_940.jpg
+1.0
+0.741935483871
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_285.jpg
+1.0
+0.75
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_778.jpg
+1.0
+0.757575757576
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_420.jpg
+0.0
+0.735294117647
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_537.jpg
+0.0
+0.714285714286
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_609.jpg
+1.0
+0.722222222222
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_241.jpg
+1.0
+0.72972972973
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_512.jpg
+1.0
+0.736842105263
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_56.jpg
+1.0
+0.74358974359
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_569.jpg
+1.0
+0.75
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_791.jpg
+0.0
+0.731707317073
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_477.jpg
+1.0
+0.738095238095
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_134.jpg
+1.0
+0.744186046512
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_736.jpg
+1.0
+0.75
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_425.jpg
+1.0
+0.755555555556
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_409.jpg
+0.0
+0.739130434783
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_166.jpg
+1.0
+0.744680851064
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_374.jpg
+1.0
+0.75
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_381.jpg
+1.0
+0.755102040816
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_937.jpg
+1.0
+0.76
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_807.jpg
+1.0
+0.764705882353
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_74.jpg
+0.0
+0.75
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_11.jpg
+0.0
+0.735849056604
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_539.jpg
+1.0
+0.740740740741
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_478.jpg
+1.0
+0.745454545455
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_204.jpg
+1.0
+0.75
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_513.jpg
+0.0
+0.736842105263
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_129.jpg
+1.0
+0.741379310345
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_3.jpg
+1.0
+0.745762711864
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_406.jpg
+0.0
+0.733333333333
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_135.jpg
+1.0
+0.737704918033
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_155.jpg
+1.0
+0.741935483871
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_433.jpg
+1.0
+0.746031746032
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_554.jpg
+1.0
+0.75
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_491.jpg
+1.0
+0.753846153846
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_933.jpg
+1.0
+0.757575757576
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_208.jpg
+0.0
+0.746268656716
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_728.jpg
+0.0
+0.735294117647
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_542.jpg
+1.0
+0.739130434783
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_849.jpg
+1.0
+0.742857142857
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_237.jpg
+1.0
+0.746478873239
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_107.jpg
+1.0
+0.75
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_260.jpg
+1.0
+0.753424657534
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_225.jpg
+1.0
+0.756756756757
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_759.jpg
+1.0
+0.76
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_189.jpg
+0.0
+0.75
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_301.jpg
+1.0
+0.753246753247
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_779.jpg
+1.0
+0.75641025641
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_912.jpg
+1.0
+0.759493670886
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_1032.jpg
+1.0
+0.7625
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_246.jpg
+1.0
+0.765432098765
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_852.jpg
+1.0
+0.768292682927
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_510.jpg
+0.0
+0.759036144578
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_559.jpg
+1.0
+0.761904761905
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_282.jpg
+1.0
+0.764705882353
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_813.jpg
+1.0
+0.767441860465
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_691.jpg
+1.0
+0.770114942529
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_270.jpg
+1.0
+0.772727272727
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_513.jpg
+0.0
+0.76404494382
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_239.jpg
+1.0
+0.766666666667
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_33.jpg
+1.0
+0.769230769231
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_764.jpg
+1.0
+0.771739130435
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_121.jpg
+1.0
+0.774193548387
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_2_People_Visible_13_217.jpg
+1.0
+0.776595744681
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_Sequences_13_456.jpg
+1.0
+0.778947368421
+1 ./WIDER_val/images/13--Interview/13_Interview_Interview_On_Location_13_247.jpg
+1.0
+0.78125
+1 ./WIDER_val/images/14--Traffic/14_Traffic_Traffic_14_675.jpg
+0.0
+0.773195876289
+1 ./WIDER_val/images/14--Traffic/14_Traffic_Traffic_14_253.jpg
+0.0
+0.765306122449
+1 ./WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_731.jpg
+1.0
+0.767676767677
+1 ./WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_706.jpg
+1.0
+0.77
+1 ./WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_483.jpg
+0.0
+0.762376237624
+1 ./WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_303.jpg
+1.0
+0.764705882353
+1 ./WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_676.jpg
+0.0
+0.757281553398
+1 ./WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_846.jpg
+1.0
+0.759615384615
+1 ./WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_781.jpg
+1.0
+0.761904761905
+1 ./WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_382.jpg
+1.0
+0.764150943396
+1 ./WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_751.jpg
+1.0
+0.766355140187
+1 ./WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_526.jpg
+0.0
+0.759259259259
+1 ./WIDER_val/images/15--Stock_Market/15_Stock_Market_Stock_Market_15_301.jpg
+0.0
+0.752293577982
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_239.jpg
+1.0
+0.754545454545
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_589.jpg
+1.0
+0.756756756757
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_84.jpg
+1.0
+0.758928571429
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_422.jpg
+1.0
+0.761061946903
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_474.jpg
+1.0
+0.763157894737
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_467.jpg
+1.0
+0.765217391304
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_361.jpg
+1.0
+0.76724137931
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_482.jpg
+1.0
+0.769230769231
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_134.jpg
+1.0
+0.771186440678
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_512.jpg
+1.0
+0.773109243697
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_495.jpg
+1.0
+0.775
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_750.jpg
+1.0
+0.776859504132
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_124.jpg
+1.0
+0.77868852459
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_135.jpg
+1.0
+0.780487804878
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_490.jpg
+1.0
+0.782258064516
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_143.jpg
+1.0
+0.784
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_338.jpg
+1.0
+0.785714285714
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_447.jpg
+1.0
+0.787401574803
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_591.jpg
+1.0
+0.7890625
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_637.jpg
+1.0
+0.790697674419
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_64.jpg
+1.0
+0.792307692308
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_59.jpg
+1.0
+0.793893129771
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_311.jpg
+1.0
+0.795454545455
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_566.jpg
+1.0
+0.796992481203
+1 ./WIDER_val/images/16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_546.jpg
+0.0
+0.791044776119
+1 ./WIDER_val/images/17--Ceremony/17_Ceremony_Ceremony_17_444.jpg
+1.0
+0.792592592593
+1 ./WIDER_val/images/17--Ceremony/17_Ceremony_Ceremony_17_1037.jpg
+1.0
+0.794117647059
+1 ./WIDER_val/images/17--Ceremony/17_Ceremony_Ceremony_17_735.jpg
+1.0
+0.795620437956
+1 ./WIDER_val/images/17--Ceremony/17_Ceremony_Ceremony_17_1009.jpg
+0.0
+0.789855072464
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_381.jpg
+0.0
+0.784172661871
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_27.jpg
+1.0
+0.785714285714
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_349.jpg
+1.0
+0.787234042553
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_612.jpg
+1.0
+0.788732394366
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_815.jpg
+0.0
+0.783216783217
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_252.jpg
+1.0
+0.784722222222
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_1013.jpg
+1.0
+0.786206896552
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_486.jpg
+0.0
+0.780821917808
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_1016.jpg
+1.0
+0.78231292517
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_706.jpg
+1.0
+0.783783783784
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_665.jpg
+1.0
+0.785234899329
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_251.jpg
+1.0
+0.786666666667
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_910.jpg
+0.0
+0.781456953642
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_657.jpg
+0.0
+0.776315789474
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_555.jpg
+1.0
+0.777777777778
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_1004.jpg
+1.0
+0.779220779221
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_655.jpg
+1.0
+0.78064516129
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_402.jpg
+1.0
+0.782051282051
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_433.jpg
+0.0
+0.777070063694
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_389.jpg
+0.0
+0.772151898734
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_828.jpg
+1.0
+0.77358490566
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_102.jpg
+1.0
+0.775
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_366.jpg
+1.0
+0.776397515528
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_693.jpg
+1.0
+0.777777777778
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_784.jpg
+1.0
+0.779141104294
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_350.jpg
+1.0
+0.780487804878
+1 ./WIDER_val/images/18--Concerts/18_Concerts_Concerts_18_403.jpg
+0.0
+0.775757575758
+1 ./WIDER_val/images/19--Couple/19_Couple_Couple_19_509.jpg
+0.0
+0.771084337349
+1 ./WIDER_val/images/2--Demonstration/2_Demonstration_Political_Rally_2_219.jpg
+1.0
+0.77245508982
+1 ./WIDER_val/images/2--Demonstration/2_Demonstration_Demonstration_Or_Protest_2_795.jpg
+1.0
+0.77380952381
+1 ./WIDER_val/images/2--Demonstration/2_Demonstration_Political_Rally_2_611.jpg
+1.0
+0.775147928994
+1 ./WIDER_val/images/2--Demonstration/2_Demonstration_Political_Rally_2_382.jpg
+1.0
+0.776470588235
+1 ./WIDER_val/images/2--Demonstration/2_Demonstration_Political_Rally_2_566.jpg
+1.0
+0.777777777778
+1 ./WIDER_val/images/2--Demonstration/2_Demonstration_Demonstration_Or_Protest_2_924.jpg
+1.0
+0.779069767442
+1 ./WIDER_val/images/2--Demonstration/2_Demonstration_Political_Rally_2_800.jpg
+1.0
+0.780346820809
+1 ./WIDER_val/images/2--Demonstration/2_Demonstration_Demonstration_Or_Protest_2_942.jpg
+1.0
+0.781609195402
+1 ./WIDER_val/images/2--Demonstration/2_Demonstration_Political_Rally_2_884.jpg
+0.0
+0.777142857143
+1 ./WIDER_val/images/2--Demonstration/2_Demonstration_Demonstrators_2_12.jpg
+0.0
+0.772727272727
+1 ./WIDER_val/images/2--Demonstration/2_Demonstration_Political_Rally_2_172.jpg
+1.0
+0.774011299435
+1 ./WIDER_val/images/20--Family_Group/20_Family_Group_Family_Group_20_453.jpg
+0.0
+0.769662921348
+1 ./WIDER_val/images/21--Festival/21_Festival_Festival_21_491.jpg
+1.0
+0.77094972067
+1 ./WIDER_val/images/21--Festival/21_Festival_Festival_21_785.jpg
+1.0
+0.772222222222
+1 ./WIDER_val/images/21--Festival/21_Festival_Festival_21_741.jpg
+0.0
+0.767955801105
+1 ./WIDER_val/images/21--Festival/21_Festival_Festival_21_354.jpg
+1.0
+0.769230769231
+1 ./WIDER_val/images/21--Festival/21_Festival_Festival_21_881.jpg
+0.0
+0.765027322404
+1 ./WIDER_val/images/21--Festival/21_Festival_Festival_21_462.jpg
+1.0
+0.766304347826
+1 ./WIDER_val/images/21--Festival/21_Festival_Festival_21_727.jpg
+0.0
+0.762162162162
+1 ./WIDER_val/images/21--Festival/21_Festival_Festival_21_660.jpg
+1.0
+0.763440860215
+1 ./WIDER_val/images/22--Picnic/22_Picnic_Picnic_22_654.jpg
+0.0
+0.75935828877
+1 ./WIDER_val/images/22--Picnic/22_Picnic_Picnic_22_688.jpg
+1.0
+0.760638297872
+1 ./WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_854.jpg
+1.0
+0.761904761905
+1 ./WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_812.jpg
+1.0
+0.763157894737
+1 ./WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_302.jpg
+1.0
+0.764397905759
+1 ./WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_167.jpg
+0.0
+0.760416666667
+1 ./WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_817.jpg
+0.0
+0.756476683938
+1 ./WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_665.jpg
+1.0
+0.757731958763
+1 ./WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_607.jpg
+1.0
+0.758974358974
+1 ./WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_543.jpg
+1.0
+0.760204081633
+1 ./WIDER_val/images/23--Shoppers/23_Shoppers_Shoppers_23_197.jpg
+1.0
+0.761421319797
+1 ./WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_268.jpg
+0.0
+0.757575757576
+1 ./WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_329.jpg
+0.0
+0.753768844221
+1 ./WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_824.jpg
+0.0
+0.75
+1 ./WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_1037.jpg
+0.0
+0.746268656716
+1 ./WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_368.jpg
+0.0
+0.742574257426
+1 ./WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_15.jpg
+0.0
+0.738916256158
+1 ./WIDER_val/images/24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_904.jpg
+0.0
+0.735294117647
+1 ./WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_640.jpg
+1.0
+0.736585365854
+1 ./WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_728.jpg
+1.0
+0.73786407767
+1 ./WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_683.jpg
+0.0
+0.734299516908
+1 ./WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_986.jpg
+1.0
+0.735576923077
+1 ./WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_585.jpg
+0.0
+0.732057416268
+1 ./WIDER_val/images/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_993.jpg
+0.0
+0.728571428571
+1 ./WIDER_val/images/26--Soldier_Drilling/26_Soldier_Drilling_Soldiers_Drilling_26_710.jpg
+1.0
+0.729857819905
+1 ./WIDER_val/images/26--Soldier_Drilling/26_Soldier_Drilling_Soldiers_Drilling_26_259.jpg
+1.0
+0.731132075472
+1 ./WIDER_val/images/26--Soldier_Drilling/26_Soldier_Drilling_Soldiers_Drilling_26_184.jpg
+1.0
+0.732394366197
+1 ./WIDER_val/images/27--Spa/27_Spa_Spa_27_420.jpg
+0.0
+0.728971962617
+1 ./WIDER_val/images/27--Spa/27_Spa_Spa_27_212.jpg
+0.0
+0.725581395349
+1 ./WIDER_val/images/27--Spa/27_Spa_Spa_27_360.jpg
+0.0
+0.722222222222
+1 ./WIDER_val/images/27--Spa/27_Spa_Spa_27_691.jpg
+1.0
+0.723502304147
+1 ./WIDER_val/images/27--Spa/27_Spa_Spa_27_728.jpg
+0.0
+0.720183486239
+1 ./WIDER_val/images/27--Spa/27_Spa_Spa_27_329.jpg
+1.0
+0.721461187215
+1 ./WIDER_val/images/27--Spa/27_Spa_Spa_27_157.jpg
+0.0
+0.718181818182
+1 ./WIDER_val/images/27--Spa/27_Spa_Spa_27_393.jpg
+0.0
+0.714932126697
+1 ./WIDER_val/images/27--Spa/27_Spa_Spa_27_38.jpg
+1.0
+0.716216216216
+1 ./WIDER_val/images/27--Spa/27_Spa_Spa_27_322.jpg
+0.0
+0.713004484305
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_656.jpg
+1.0
+0.714285714286
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_90.jpg
+1.0
+0.715555555556
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_683.jpg
+1.0
+0.716814159292
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_357.jpg
+0.0
+0.713656387665
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_866.jpg
+1.0
+0.714912280702
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_826.jpg
+1.0
+0.71615720524
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_877.jpg
+1.0
+0.717391304348
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_124.jpg
+1.0
+0.718614718615
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_86.jpg
+0.0
+0.715517241379
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_1018.jpg
+1.0
+0.716738197425
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_663.jpg
+1.0
+0.717948717949
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_770.jpg
+0.0
+0.714893617021
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_130.jpg
+0.0
+0.71186440678
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_144.jpg
+1.0
+0.713080168776
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_711.jpg
+0.0
+0.710084033613
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_22.jpg
+1.0
+0.71129707113
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_792.jpg
+1.0
+0.7125
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_880.jpg
+1.0
+0.713692946058
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_282.jpg
+1.0
+0.714876033058
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_723.jpg
+0.0
+0.711934156379
+1 ./WIDER_val/images/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_697.jpg
+0.0
+0.709016393443
+1 ./WIDER_val/images/29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_211.jpg
+1.0
+0.710204081633
+1 ./WIDER_val/images/29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_451.jpg
+1.0
+0.711382113821
+1 ./WIDER_val/images/29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_761.jpg
+0.0
+0.708502024291
+1 ./WIDER_val/images/29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_380.jpg
+1.0
+0.709677419355
+1 ./WIDER_val/images/29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_436.jpg
+1.0
+0.710843373494
+1 ./WIDER_val/images/29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_900.jpg
+1.0
+0.712
+1 ./WIDER_val/images/29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_506.jpg
+1.0
+0.713147410359
+1 ./WIDER_val/images/29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_148.jpg
+1.0
+0.714285714286
+1 ./WIDER_val/images/3--Riot/3_Riot_Riot_3_772.jpg
+1.0
+0.715415019763
+1 ./WIDER_val/images/3--Riot/3_Riot_Riot_3_436.jpg
+1.0
+0.716535433071
+1 ./WIDER_val/images/3--Riot/3_Riot_Riot_3_963.jpg
+1.0
+0.717647058824
+1 ./WIDER_val/images/3--Riot/3_Riot_Riot_3_750.jpg
+0.0
+0.71484375
+1 ./WIDER_val/images/3--Riot/3_Riot_Riot_3_322.jpg
+0.0
+0.712062256809
+1 ./WIDER_val/images/3--Riot/3_Riot_Riot_3_106.jpg
+1.0
+0.713178294574
+1 ./WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_862.jpg
+1.0
+0.714285714286
+1 ./WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_988.jpg
+1.0
+0.715384615385
+1 ./WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_932.jpg
+1.0
+0.716475095785
+1 ./WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_40.jpg
+1.0
+0.717557251908
+1 ./WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_696.jpg
+1.0
+0.718631178707
+1 ./WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_914.jpg
+1.0
+0.719696969697
+1 ./WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_482.jpg
+1.0
+0.720754716981
+1 ./WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_486.jpg
+1.0
+0.721804511278
+1 ./WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_490.jpg
+1.0
+0.722846441948
+1 ./WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_861.jpg
+1.0
+0.723880597015
+1 ./WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_840.jpg
+1.0
+0.724907063197
+1 ./WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_979.jpg
+1.0
+0.725925925926
+1 ./WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_911.jpg
+0.0
+0.723247232472
+1 ./WIDER_val/images/30--Surgeons/30_Surgeons_Surgeons_30_865.jpg
+0.0
+0.720588235294
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_932.jpg
+1.0
+0.721611721612
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_769.jpg
+1.0
+0.722627737226
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_162.jpg
+0.0
+0.72
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_21.jpg
+1.0
+0.721014492754
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_212.jpg
+0.0
+0.718411552347
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_34.jpg
+1.0
+0.719424460432
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_230.jpg
+1.0
+0.720430107527
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_927.jpg
+0.0
+0.717857142857
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_118.jpg
+1.0
+0.718861209964
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_276.jpg
+1.0
+0.719858156028
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_858.jpg
+1.0
+0.720848056537
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_410.jpg
+1.0
+0.721830985915
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_683.jpg
+1.0
+0.722807017544
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_847.jpg
+1.0
+0.723776223776
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_722.jpg
+1.0
+0.724738675958
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_267.jpg
+1.0
+0.725694444444
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_517.jpg
+1.0
+0.726643598616
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_176.jpg
+1.0
+0.727586206897
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_888.jpg
+1.0
+0.72852233677
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_373.jpg
+0.0
+0.72602739726
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_720.jpg
+1.0
+0.726962457338
+1 ./WIDER_val/images/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_915.jpg
+1.0
+0.727891156463
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_135.jpg
+1.0
+0.728813559322
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_624.jpg
+0.0
+0.726351351351
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_42.jpg
+0.0
+0.723905723906
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_44.jpg
+0.0
+0.721476510067
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_494.jpg
+1.0
+0.722408026756
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_169.jpg
+1.0
+0.723333333333
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_786.jpg
+1.0
+0.724252491694
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_468.jpg
+0.0
+0.721854304636
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_788.jpg
+1.0
+0.722772277228
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_1039.jpg
+1.0
+0.723684210526
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_1038.jpg
+0.0
+0.72131147541
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_860.jpg
+1.0
+0.722222222222
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_443.jpg
+1.0
+0.723127035831
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_170.jpg
+0.0
+0.720779220779
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_262.jpg
+1.0
+0.721682847896
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_204.jpg
+0.0
+0.71935483871
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_738.jpg
+0.0
+0.717041800643
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_68.jpg
+0.0
+0.714743589744
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_434.jpg
+1.0
+0.715654952077
+1 ./WIDER_val/images/32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_90.jpg
+0.0
+0.713375796178
+1 ./WIDER_val/images/33--Running/33_Running_Running_33_332.jpg
+1.0
+0.714285714286
+1 ./WIDER_val/images/33--Running/33_Running_Running_33_760.jpg
+1.0
+0.715189873418
+1 ./WIDER_val/images/33--Running/33_Running_Running_33_569.jpg
+1.0
+0.716088328076
+1 ./WIDER_val/images/33--Running/33_Running_Running_33_891.jpg
+1.0
+0.716981132075
+1 ./WIDER_val/images/33--Running/33_Running_Running_33_209.jpg
+1.0
+0.717868338558
+1 ./WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_608.jpg
+1.0
+0.71875
+1 ./WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_600.jpg
+0.0
+0.716510903427
+1 ./WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_667.jpg
+0.0
+0.714285714286
+1 ./WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_585.jpg
+1.0
+0.715170278638
+1 ./WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_867.jpg
+1.0
+0.716049382716
+1 ./WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_895.jpg
+1.0
+0.716923076923
+1 ./WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_886.jpg
+0.0
+0.71472392638
+1 ./WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_580.jpg
+0.0
+0.7125382263
+1 ./WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_356.jpg
+0.0
+0.710365853659
+1 ./WIDER_val/images/34--Baseball/34_Baseball_Baseball_34_829.jpg
+1.0
+0.711246200608
+1 ./WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_730.jpg
+1.0
+0.712121212121
+1 ./WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_682.jpg
+0.0
+0.70996978852
+1 ./WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_523.jpg
+1.0
+0.710843373494
+1 ./WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_199.jpg
+0.0
+0.708708708709
+1 ./WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_556.jpg
+1.0
+0.709580838323
+1 ./WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_823.jpg
+0.0
+0.707462686567
+1 ./WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_209.jpg
+1.0
+0.708333333333
+1 ./WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_644.jpg
+1.0
+0.709198813056
+1 ./WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_491.jpg
+1.0
+0.710059171598
+1 ./WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_279.jpg
+0.0
+0.70796460177
+1 ./WIDER_val/images/35--Basketball/35_Basketball_Basketball_35_684.jpg
+1.0
+0.708823529412
+1 ./WIDER_val/images/35--Basketball/35_Basketball_basketballgame_ball_35_446.jpg
+0.0
+0.706744868035
+1 ./WIDER_val/images/35--Basketball/35_Basketball_basketballgame_ball_35_423.jpg
+1.0
+0.707602339181
+1 ./WIDER_val/images/35--Basketball/35_Basketball_basketballgame_ball_35_460.jpg
+1.0
+0.708454810496
+1 ./WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_433.jpg
+1.0
+0.709302325581
+1 ./WIDER_val/images/35--Basketball/35_Basketball_playingbasketball_35_91.jpg
+1.0
+0.710144927536
+1 ./WIDER_val/images/35--Basketball/35_Basketball_basketballgame_ball_35_429.jpg
+1.0
+0.71098265896
+1 ./WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_234.jpg
+1.0
+0.71181556196
+1 ./WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_162.jpg
+0.0
+0.709770114943
+1 ./WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_301.jpg
+1.0
+0.710601719198
+1 ./WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_396.jpg
+0.0
+0.708571428571
+1 ./WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_526.jpg
+0.0
+0.706552706553
+1 ./WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_853.jpg
+1.0
+0.707386363636
+1 ./WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_265.jpg
+1.0
+0.70821529745
+1 ./WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_456.jpg
+1.0
+0.709039548023
+1 ./WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_631.jpg
+1.0
+0.70985915493
+1 ./WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_647.jpg
+0.0
+0.707865168539
+1 ./WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_321.jpg
+0.0
+0.705882352941
+1 ./WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_681.jpg
+1.0
+0.706703910615
+1 ./WIDER_val/images/36--Football/36_Football_americanfootball_ball_36_111.jpg
+0.0
+0.704735376045
+1 ./WIDER_val/images/37--Soccer/37_Soccer_soccer_ball_37_803.jpg
+1.0
+0.705555555556
+1 ./WIDER_val/images/37--Soccer/37_Soccer_soccer_ball_37_1001.jpg
+1.0
+0.706371191136
+1 ./WIDER_val/images/37--Soccer/37_Soccer_soccer_ball_37_886.jpg
+1.0
+0.707182320442
+1 ./WIDER_val/images/37--Soccer/37_Soccer_soccer_ball_37_74.jpg
+1.0
+0.707988980716
+1 ./WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_558.jpg
+0.0
+0.706043956044
+1 ./WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_81.jpg
+0.0
+0.704109589041
+1 ./WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_323.jpg
+1.0
+0.704918032787
+1 ./WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_717.jpg
+1.0
+0.705722070845
+1 ./WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_300.jpg
+1.0
+0.70652173913
+1 ./WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_131.jpg
+1.0
+0.707317073171
+1 ./WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_604.jpg
+0.0
+0.705405405405
+1 ./WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_485.jpg
+0.0
+0.703504043127
+1 ./WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_319.jpg
+1.0
+0.704301075269
+1 ./WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_182.jpg
+1.0
+0.70509383378
+1 ./WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_230.jpg
+0.0
+0.70320855615
+1 ./WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_240.jpg
+1.0
+0.704
+1 ./WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_666.jpg
+0.0
+0.702127659574
+1 ./WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_128.jpg
+0.0
+0.700265251989
+1 ./WIDER_val/images/38--Tennis/38_Tennis_Tennis_38_754.jpg
+1.0
+0.701058201058
+1 ./WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_616.jpg
+0.0
+0.699208443272
+1 ./WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_682.jpg
+0.0
+0.697368421053
+1 ./WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_495.jpg
+1.0
+0.698162729659
+1 ./WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_486.jpg
+1.0
+0.698952879581
+1 ./WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_458.jpg
+0.0
+0.697127937337
+1 ./WIDER_val/images/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_270.jpg
+0.0
+0.6953125
+1 ./WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_1000.jpg
+1.0
+0.696103896104
+1 ./WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_384.jpg
+0.0
+0.694300518135
+1 ./WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_162.jpg
+1.0
+0.695090439276
+1 ./WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_915.jpg
+1.0
+0.69587628866
+1 ./WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_922.jpg
+1.0
+0.696658097686
+1 ./WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_885.jpg
+1.0
+0.697435897436
+1 ./WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_960.jpg
+1.0
+0.69820971867
+1 ./WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_878.jpg
+1.0
+0.698979591837
+1 ./WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_494.jpg
+1.0
+0.699745547074
+1 ./WIDER_val/images/4--Dancing/4_Dancing_Dancing_4_1028.jpg
+1.0
+0.700507614213
+1 ./WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_57.jpg
+1.0
+0.701265822785
+1 ./WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_980.jpg
+0.0
+0.699494949495
+1 ./WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_771.jpg
+1.0
+0.700251889169
+1 ./WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_740.jpg
+1.0
+0.701005025126
+1 ./WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_197.jpg
+1.0
+0.701754385965
+1 ./WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_596.jpg
+1.0
+0.7025
+1 ./WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_627.jpg
+0.0
+0.700748129676
+1 ./WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_894.jpg
+1.0
+0.701492537313
+1 ./WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_488.jpg
+1.0
+0.70223325062
+1 ./WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_762.jpg
+0.0
+0.700495049505
+1 ./WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_401.jpg
+1.0
+0.701234567901
+1 ./WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_364.jpg
+0.0
+0.699507389163
+1 ./WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_389.jpg
+1.0
+0.700245700246
+1 ./WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_609.jpg
+0.0
+0.698529411765
+1 ./WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_1044.jpg
+1.0
+0.699266503667
+1 ./WIDER_val/images/40--Gymnastics/40_Gymnastics_Gymnastics_40_805.jpg
+1.0
+0.7
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_580.jpg
+1.0
+0.700729927007
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_35.jpg
+0.0
+0.699029126214
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_369.jpg
+0.0
+0.697336561743
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_935.jpg
+0.0
+0.695652173913
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_170.jpg
+0.0
+0.693975903614
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_379.jpg
+0.0
+0.692307692308
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_641.jpg
+0.0
+0.690647482014
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_831.jpg
+1.0
+0.691387559809
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_538.jpg
+1.0
+0.692124105012
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_271.jpg
+0.0
+0.690476190476
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_288.jpg
+0.0
+0.688836104513
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_701.jpg
+1.0
+0.689573459716
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_976.jpg
+0.0
+0.687943262411
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_610.jpg
+1.0
+0.688679245283
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_74.jpg
+1.0
+0.689411764706
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_773.jpg
+1.0
+0.69014084507
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_161.jpg
+0.0
+0.688524590164
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_535.jpg
+0.0
+0.68691588785
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_73.jpg
+0.0
+0.685314685315
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_792.jpg
+1.0
+0.686046511628
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_358.jpg
+1.0
+0.686774941995
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_148.jpg
+0.0
+0.685185185185
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_52.jpg
+0.0
+0.683602771363
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_483.jpg
+0.0
+0.68202764977
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_262.jpg
+0.0
+0.680459770115
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_106.jpg
+0.0
+0.678899082569
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_718.jpg
+1.0
+0.679633867277
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_275.jpg
+1.0
+0.680365296804
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_232.jpg
+0.0
+0.678815489749
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_19.jpg
+1.0
+0.679545454545
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_26.jpg
+0.0
+0.678004535147
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_399.jpg
+0.0
+0.676470588235
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_488.jpg
+1.0
+0.677200902935
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_1028.jpg
+1.0
+0.677927927928
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_472.jpg
+1.0
+0.678651685393
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_943.jpg
+1.0
+0.679372197309
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_376.jpg
+1.0
+0.680089485459
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_471.jpg
+1.0
+0.680803571429
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_275.jpg
+1.0
+0.681514476615
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_113.jpg
+0.0
+0.68
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_885.jpg
+1.0
+0.680709534368
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_931.jpg
+1.0
+0.681415929204
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_55.jpg
+1.0
+0.682119205298
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_380.jpg
+1.0
+0.68281938326
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_927.jpg
+0.0
+0.681318681319
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_507.jpg
+0.0
+0.679824561404
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_440.jpg
+1.0
+0.680525164114
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_659.jpg
+1.0
+0.681222707424
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_711.jpg
+1.0
+0.681917211329
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimming_41_714.jpg
+1.0
+0.682608695652
+1 ./WIDER_val/images/41--Swimming/41_Swimming_Swimmer_41_1002.jpg
+1.0
+0.683297180043
+1 ./WIDER_val/images/42--Car_Racing/42_Car_Racing_Nascar_42_482.jpg
+1.0
+0.683982683983
+1 ./WIDER_val/images/42--Car_Racing/42_Car_Racing_Nascar_42_911.jpg
+1.0
+0.684665226782
+1 ./WIDER_val/images/42--Car_Racing/42_Car_Racing_Nascar_42_468.jpg
+1.0
+0.685344827586
+1 ./WIDER_val/images/42--Car_Racing/42_Car_Racing_Nascar_42_900.jpg
+0.0
+0.683870967742
+1 ./WIDER_val/images/43--Row_Boat/43_Row_Boat_Canoe_43_881.jpg
+0.0
+0.682403433476
+1 ./WIDER_val/images/43--Row_Boat/43_Row_Boat_Canoe_43_1047.jpg
+1.0
+0.683083511777
+1 ./WIDER_val/images/43--Row_Boat/43_Row_Boat_Rowboat_43_1024.jpg
+1.0
+0.683760683761
+1 ./WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_1032.jpg
+1.0
+0.684434968017
+1 ./WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_755.jpg
+0.0
+0.682978723404
+1 ./WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_231.jpg
+1.0
+0.683651804671
+1 ./WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_400.jpg
+1.0
+0.684322033898
+1 ./WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_443.jpg
+1.0
+0.684989429175
+1 ./WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_650.jpg
+1.0
+0.685654008439
+1 ./WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_937.jpg
+1.0
+0.686315789474
+1 ./WIDER_val/images/44--Aerobics/44_Aerobics_Aerobics_44_583.jpg
+1.0
+0.686974789916
+1 ./WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_186.jpg
+1.0
+0.687631027254
+1 ./WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_217.jpg
+1.0
+0.688284518828
+1 ./WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_207.jpg
+0.0
+0.686847599165
+1 ./WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_936.jpg
+1.0
+0.6875
+1 ./WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_160.jpg
+1.0
+0.68814968815
+1 ./WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_434.jpg
+0.0
+0.686721991701
+1 ./WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_142.jpg
+1.0
+0.687370600414
+1 ./WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_939.jpg
+1.0
+0.688016528926
+1 ./WIDER_val/images/45--Balloonist/45_Balloonist_Balloonist_45_149.jpg
+0.0
+0.686597938144
+1 ./WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_172.jpg
+1.0
+0.687242798354
+1 ./WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_537.jpg
+1.0
+0.687885010267
+1 ./WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_497.jpg
+1.0
+0.688524590164
+1 ./WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_823.jpg
+1.0
+0.689161554192
+1 ./WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_728.jpg
+0.0
+0.687755102041
+1 ./WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_259.jpg
+1.0
+0.688391038697
+1 ./WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_51.jpg
+1.0
+0.689024390244
+1 ./WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_254.jpg
+1.0
+0.689655172414
+1 ./WIDER_val/images/46--Jockey/46_Jockey_Jockey_46_758.jpg
+1.0
+0.69028340081
+1 ./WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_254.jpg
+0.0
+0.688888888889
+1 ./WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_617.jpg
+1.0
+0.689516129032
+1 ./WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_785.jpg
+1.0
+0.69014084507
+1 ./WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_845.jpg
+1.0
+0.690763052209
+1 ./WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_641.jpg
+1.0
+0.691382765531
+1 ./WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_777.jpg
+1.0
+0.692
+1 ./WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_703.jpg
+1.0
+0.692614770459
+1 ./WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_610.jpg
+0.0
+0.691235059761
+1 ./WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_583.jpg
+1.0
+0.691848906561
+1 ./WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_338.jpg
+1.0
+0.69246031746
+1 ./WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_782.jpg
+1.0
+0.693069306931
+1 ./WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_171.jpg
+0.0
+0.691699604743
+1 ./WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_778.jpg
+0.0
+0.69033530572
+1 ./WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_837.jpg
+1.0
+0.69094488189
+1 ./WIDER_val/images/47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_567.jpg
+1.0
+0.691552062868
+1 ./WIDER_val/images/48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_122.jpg
+1.0
+0.692156862745
+1 ./WIDER_val/images/48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_695.jpg
+1.0
+0.692759295499
+1 ./WIDER_val/images/48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_652.jpg
+1.0
+0.693359375
+1 ./WIDER_val/images/48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_164.jpg
+0.0
+0.692007797271
+1 ./WIDER_val/images/48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_596.jpg
+0.0
+0.690661478599
+1 ./WIDER_val/images/48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_357.jpg
+0.0
+0.68932038835
+1 ./WIDER_val/images/48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_785.jpg
+0.0
+0.687984496124
+1 ./WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_203.jpg
+0.0
+0.68665377176
+1 ./WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_589.jpg
+1.0
+0.687258687259
+1 ./WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_759.jpg
+0.0
+0.685934489403
+1 ./WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_656.jpg
+1.0
+0.686538461538
+1 ./WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_486.jpg
+0.0
+0.685220729367
+1 ./WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_903.jpg
+0.0
+0.683908045977
+1 ./WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_896.jpg
+1.0
+0.684512428298
+1 ./WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_890.jpg
+0.0
+0.68320610687
+1 ./WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_337.jpg
+0.0
+0.681904761905
+1 ./WIDER_val/images/49--Greeting/49_Greeting_peoplegreeting_49_783.jpg
+1.0
+0.682509505703
+1 ./WIDER_val/images/5--Car_Accident/5_Car_Accident_Accident_5_869.jpg
+1.0
+0.683111954459
+1 ./WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_641.jpg
+1.0
+0.683712121212
+1 ./WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_410.jpg
+1.0
+0.684310018904
+1 ./WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_647.jpg
+1.0
+0.684905660377
+1 ./WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_654.jpg
+1.0
+0.68549905838
+1 ./WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_764.jpg
+1.0
+0.686090225564
+1 ./WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_birthdayparty_50_479.jpg
+1.0
+0.686679174484
+1 ./WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_birthdayparty_50_144.jpg
+1.0
+0.687265917603
+1 ./WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_birthdayparty_50_196.jpg
+1.0
+0.68785046729
+1 ./WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_749.jpg
+1.0
+0.688432835821
+1 ./WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_180.jpg
+1.0
+0.689013035382
+1 ./WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_649.jpg
+1.0
+0.689591078067
+1 ./WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_720.jpg
+1.0
+0.690166975881
+1 ./WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_birthdayparty_50_464.jpg
+1.0
+0.690740740741
+1 ./WIDER_val/images/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_735.jpg
+0.0
+0.689463955638
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_1041.jpg
+1.0
+0.690036900369
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_789.jpg
+1.0
+0.690607734807
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_815.jpg
+1.0
+0.691176470588
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_633.jpg
+1.0
+0.691743119266
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_465.jpg
+1.0
+0.692307692308
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_13.jpg
+1.0
+0.692870201097
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_161.jpg
+1.0
+0.693430656934
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_306.jpg
+1.0
+0.693989071038
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_106.jpg
+1.0
+0.694545454545
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_1031.jpg
+1.0
+0.695099818512
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_612.jpg
+1.0
+0.695652173913
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_536.jpg
+1.0
+0.696202531646
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_386.jpg
+1.0
+0.696750902527
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_327.jpg
+1.0
+0.697297297297
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_388.jpg
+1.0
+0.697841726619
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_837.jpg
+1.0
+0.698384201077
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_139.jpg
+1.0
+0.698924731183
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_348.jpg
+1.0
+0.69946332737
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_96.jpg
+1.0
+0.7
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_736.jpg
+0.0
+0.698752228164
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_398.jpg
+1.0
+0.699288256228
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_113.jpg
+1.0
+0.699822380107
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_748.jpg
+1.0
+0.700354609929
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_670.jpg
+1.0
+0.700884955752
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_226.jpg
+1.0
+0.701413427562
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_178.jpg
+1.0
+0.701940035273
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_17.jpg
+1.0
+0.702464788732
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_580.jpg
+1.0
+0.702987697715
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_233.jpg
+1.0
+0.70350877193
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_451.jpg
+1.0
+0.704028021016
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_512.jpg
+0.0
+0.702797202797
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_741.jpg
+1.0
+0.703315881326
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_94.jpg
+0.0
+0.702090592334
+1 ./WIDER_val/images/51--Dresses/51_Dresses_wearingdress_51_874.jpg
+1.0
+0.702608695652
+1 ./WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_721.jpg
+1.0
+0.703125
+1 ./WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_30.jpg
+0.0
+0.701906412478
+1 ./WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_358.jpg
+0.0
+0.700692041522
+1 ./WIDER_val/images/52--Photographers/52_Photographers_taketouristphotos_52_97.jpg
+0.0
+0.699481865285
+1 ./WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_61.jpg
+0.0
+0.698275862069
+1 ./WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_653.jpg
+0.0
+0.697074010327
+1 ./WIDER_val/images/52--Photographers/52_Photographers_taketouristphotos_52_328.jpg
+0.0
+0.69587628866
+1 ./WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_456.jpg
+1.0
+0.696397941681
+1 ./WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_90.jpg
+0.0
+0.695205479452
+1 ./WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_416.jpg
+1.0
+0.695726495726
+1 ./WIDER_val/images/52--Photographers/52_Photographers_taketouristphotos_52_536.jpg
+1.0
+0.696245733788
+1 ./WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_815.jpg
+1.0
+0.696763202726
+1 ./WIDER_val/images/52--Photographers/52_Photographers_taketouristphotos_52_659.jpg
+0.0
+0.695578231293
+1 ./WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_84.jpg
+0.0
+0.694397283531
+1 ./WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_743.jpg
+1.0
+0.694915254237
+1 ./WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_113.jpg
+1.0
+0.695431472081
+1 ./WIDER_val/images/52--Photographers/52_Photographers_taketouristphotos_52_86.jpg
+1.0
+0.695945945946
+1 ./WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_759.jpg
+1.0
+0.696458684654
+1 ./WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_776.jpg
+0.0
+0.695286195286
+1 ./WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_428.jpg
+0.0
+0.694117647059
+1 ./WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_568.jpg
+1.0
+0.694630872483
+1 ./WIDER_val/images/52--Photographers/52_Photographers_photographertakingphoto_52_807.jpg
+1.0
+0.695142378559
+1 ./WIDER_val/images/53--Raid/53_Raid_policeraid_53_438.jpg
+0.0
+0.69397993311
+1 ./WIDER_val/images/53--Raid/53_Raid_policeraid_53_396.jpg
+0.0
+0.692821368948
+1 ./WIDER_val/images/53--Raid/53_Raid_policeraid_53_597.jpg
+1.0
+0.693333333333
+1 ./WIDER_val/images/53--Raid/53_Raid_policeraid_53_471.jpg
+1.0
+0.69384359401
+1 ./WIDER_val/images/53--Raid/53_Raid_policeraid_53_860.jpg
+1.0
+0.694352159468
+1 ./WIDER_val/images/53--Raid/53_Raid_policeraid_53_951.jpg
+1.0
+0.694859038143
+1 ./WIDER_val/images/54--Rescue/54_Rescue_rescuepeople_54_254.jpg
+1.0
+0.695364238411
+1 ./WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_789.jpg
+0.0
+0.694214876033
+1 ./WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_458.jpg
+1.0
+0.694719471947
+1 ./WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_153.jpg
+0.0
+0.693574958814
+1 ./WIDER_val/images/54--Rescue/54_Rescue_rescuepeople_54_328.jpg
+1.0
+0.694078947368
+1 ./WIDER_val/images/54--Rescue/54_Rescue_rescuepeople_54_1035.jpg
+1.0
+0.694581280788
+1 ./WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_420.jpg
+1.0
+0.695081967213
+1 ./WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_103.jpg
+1.0
+0.69558101473
+1 ./WIDER_val/images/54--Rescue/54_Rescue_rescuepeople_54_158.jpg
+1.0
+0.696078431373
+1 ./WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_327.jpg
+1.0
+0.696574225122
+1 ./WIDER_val/images/54--Rescue/54_Rescue_rescuepeople_54_208.jpg
+0.0
+0.695439739414
+1 ./WIDER_val/images/54--Rescue/54_Rescue_firemanrescue_54_617.jpg
+0.0
+0.694308943089
+1 ./WIDER_val/images/54--Rescue/54_Rescue_rescuepeople_54_531.jpg
+1.0
+0.694805194805
+1 ./WIDER_val/images/54--Rescue/54_Rescue_rescuepeople_54_738.jpg
+1.0
+0.695299837925
+1 ./WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_325.jpg
+1.0
+0.695792880259
+1 ./WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_1027.jpg
+0.0
+0.694668820679
+1 ./WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_50.jpg
+0.0
+0.693548387097
+1 ./WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_711.jpg
+0.0
+0.692431561997
+1 ./WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_245.jpg
+0.0
+0.691318327974
+1 ./WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_838.jpg
+1.0
+0.691813804173
+1 ./WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_1015.jpg
+1.0
+0.692307692308
+1 ./WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_894.jpg
+1.0
+0.6928
+1 ./WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_343.jpg
+1.0
+0.693290734824
+1 ./WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_637.jpg
+0.0
+0.692185007974
+1 ./WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_1013.jpg
+1.0
+0.692675159236
+1 ./WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_523.jpg
+1.0
+0.693163751987
+1 ./WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_951.jpg
+1.0
+0.693650793651
+1 ./WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_183.jpg
+1.0
+0.694136291601
+1 ./WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_721.jpg
+1.0
+0.694620253165
+1 ./WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_726.jpg
+1.0
+0.695102685624
+1 ./WIDER_val/images/55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_208.jpg
+0.0
+0.694006309148
+1 ./WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_796.jpg
+1.0
+0.694488188976
+1 ./WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_346.jpg
+1.0
+0.694968553459
+1 ./WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_1011.jpg
+1.0
+0.695447409733
+1 ./WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_764.jpg
+0.0
+0.694357366771
+1 ./WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_887.jpg
+0.0
+0.693270735524
+1 ./WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_103.jpg
+1.0
+0.69375
+1 ./WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_712.jpg
+1.0
+0.694227769111
+1 ./WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_842.jpg
+1.0
+0.694704049844
+1 ./WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_747.jpg
+1.0
+0.695178849145
+1 ./WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_873.jpg
+1.0
+0.695652173913
+1 ./WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_378.jpg
+1.0
+0.696124031008
+1 ./WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_140.jpg
+1.0
+0.696594427245
+1 ./WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_953.jpg
+0.0
+0.695517774343
+1 ./WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_323.jpg
+1.0
+0.695987654321
+1 ./WIDER_val/images/56--Voter/56_Voter_peoplevoting_56_1046.jpg
+1.0
+0.696456086287
+1 ./WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_926.jpg
+1.0
+0.696923076923
+1 ./WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_153.jpg
+0.0
+0.695852534562
+1 ./WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_250.jpg
+0.0
+0.694785276074
+1 ./WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_589.jpg
+1.0
+0.695252679939
+1 ./WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_868.jpg
+1.0
+0.695718654434
+1 ./WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_900.jpg
+1.0
+0.696183206107
+1 ./WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_796.jpg
+1.0
+0.696646341463
+1 ./WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_803.jpg
+1.0
+0.697108066971
+1 ./WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_600.jpg
+1.0
+0.697568389058
+1 ./WIDER_val/images/57--Angler/57_Angler_peoplefishing_57_764.jpg
+1.0
+0.698027314112
+1 ./WIDER_val/images/58--Hockey/58_Hockey_icehockey_puck_58_455.jpg
+1.0
+0.698484848485
+1 ./WIDER_val/images/58--Hockey/58_Hockey_icehockey_puck_58_531.jpg
+1.0
+0.698940998487
+1 ./WIDER_val/images/58--Hockey/58_Hockey_icehockey_puck_58_697.jpg
+1.0
+0.699395770393
+1 ./WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_978.jpg
+0.0
+0.698340874811
+1 ./WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_906.jpg
+1.0
+0.698795180723
+1 ./WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_789.jpg
+1.0
+0.699248120301
+1 ./WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_27.jpg
+1.0
+0.6996996997
+1 ./WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_95.jpg
+1.0
+0.700149925037
+1 ./WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_229.jpg
+1.0
+0.700598802395
+1 ./WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_34.jpg
+1.0
+0.701046337818
+1 ./WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_85.jpg
+1.0
+0.701492537313
+1 ./WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_117.jpg
+0.0
+0.70044709389
+1 ./WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_1038.jpg
+1.0
+0.700892857143
+1 ./WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_725.jpg
+0.0
+0.69985141159
+1 ./WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_64.jpg
+1.0
+0.700296735905
+1 ./WIDER_val/images/59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_928.jpg
+1.0
+0.700740740741
+1 ./WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_483.jpg
+1.0
+0.701183431953
+1 ./WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_280.jpg
+0.0
+0.700147710487
+1 ./WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_444.jpg
+1.0
+0.700589970501
+1 ./WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_937.jpg
+1.0
+0.701030927835
+1 ./WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_690.jpg
+1.0
+0.701470588235
+1 ./WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_941.jpg
+1.0
+0.701908957416
+1 ./WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_779.jpg
+1.0
+0.702346041056
+1 ./WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_315.jpg
+1.0
+0.702781844802
+1 ./WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_790.jpg
+1.0
+0.703216374269
+1 ./WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_461.jpg
+1.0
+0.703649635036
+1 ./WIDER_val/images/6--Funeral/6_Funeral_Funeral_6_861.jpg
+1.0
+0.704081632653
+1 ./WIDER_val/images/61--Street_Battle/61_Street_Battle_streetfight_61_640.jpg
+0.0
+0.703056768559
+1 ./WIDER_val/images/61--Street_Battle/61_Street_Battle_streetfight_61_22.jpg
+1.0
+0.703488372093
+1 ./WIDER_val/images/61--Street_Battle/61_Street_Battle_streetfight_61_344.jpg
+0.0
+0.702467343977
+1 ./WIDER_val/images/61--Street_Battle/61_Street_Battle_streetfight_61_375.jpg
+1.0
+0.702898550725
+1 ./WIDER_val/images/61--Street_Battle/61_Street_Battle_streetfight_61_703.jpg
+1.0
+0.703328509407
+1 ./WIDER_val/images/61--Street_Battle/61_Street_Battle_streetfight_61_407.jpg
+1.0
+0.703757225434
+1 ./WIDER_val/images/7--Cheering/7_Cheering_Cheering_7_655.jpg
+1.0
+0.704184704185
+1 ./WIDER_val/images/7--Cheering/7_Cheering_Cheering_7_500.jpg
+1.0
+0.704610951009
+1 ./WIDER_val/images/7--Cheering/7_Cheering_Cheering_7_239.jpg
+1.0
+0.705035971223
+1 ./WIDER_val/images/7--Cheering/7_Cheering_Cheering_7_835.jpg
+1.0
+0.705459770115
+1 ./WIDER_val/images/7--Cheering/7_Cheering_Cheering_7_802.jpg
+1.0
+0.705882352941
+1 ./WIDER_val/images/7--Cheering/7_Cheering_Cheering_7_739.jpg
+1.0
+0.706303724928
+1 ./WIDER_val/images/8--Election_Campain/8_Election_Campain_Election_Campaign_8_269.jpg
+1.0
+0.706723891273
+1 ./WIDER_val/images/8--Election_Campain/8_Election_Campain_Election_Campaign_8_553.jpg
+1.0
+0.707142857143
+1 ./WIDER_val/images/8--Election_Campain/8_Election_Campain_Election_Campaign_8_451.jpg
+0.0
+0.706134094151
+1 ./WIDER_val/images/8--Election_Campain/8_Election_Campain_Election_Campaign_8_69.jpg
+1.0
+0.706552706553
+1 ./WIDER_val/images/8--Election_Campain/8_Election_Campain_Election_Campaign_8_357.jpg
+1.0
+0.706970128023
+1 ./WIDER_val/images/8--Election_Campain/8_Election_Campain_Election_Campaign_8_529.jpg
+1.0
+0.707386363636
+1 ./WIDER_val/images/8--Election_Campain/8_Election_Campain_Election_Campaign_8_120.jpg
+1.0
+0.70780141844
+1 ./WIDER_val/images/8--Election_Campain/8_Election_Campain_Election_Campaign_8_25.jpg
+1.0
+0.70821529745
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_907.jpg
+1.0
+0.708628005658
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_784.jpg
+1.0
+0.709039548023
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_352.jpg
+1.0
+0.709449929478
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_492.jpg
+1.0
+0.70985915493
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_141.jpg
+1.0
+0.710267229255
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_357.jpg
+1.0
+0.710674157303
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_571.jpg
+1.0
+0.711079943899
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_344.jpg
+1.0
+0.711484593838
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_849.jpg
+1.0
+0.711888111888
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_520.jpg
+1.0
+0.712290502793
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_297.jpg
+1.0
+0.712691771269
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_332.jpg
+1.0
+0.713091922006
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_432.jpg
+1.0
+0.713490959666
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_924.jpg
+1.0
+0.713888888889
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_636.jpg
+1.0
+0.714285714286
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_252.jpg
+1.0
+0.714681440443
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_615.jpg
+1.0
+0.715076071923
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_933.jpg
+1.0
+0.71546961326
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_945.jpg
+1.0
+0.715862068966
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_748.jpg
+1.0
+0.716253443526
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_607.jpg
+1.0
+0.716643741403
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_34.jpg
+1.0
+0.717032967033
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_258.jpg
+1.0
+0.717421124829
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_431.jpg
+1.0
+0.717808219178
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_872.jpg
+1.0
+0.718194254446
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_883.jpg
+1.0
+0.718579234973
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_161.jpg
+1.0
+0.718963165075
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_343.jpg
+1.0
+0.719346049046
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_710.jpg
+1.0
+0.719727891156
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_658.jpg
+1.0
+0.720108695652
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_632.jpg
+1.0
+0.720488466757
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_196.jpg
+0.0
+0.719512195122
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_767.jpg
+1.0
+0.719891745602
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_552.jpg
+1.0
+0.72027027027
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_595.jpg
+1.0
+0.720647773279
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_43.jpg
+0.0
+0.719676549865
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_828.jpg
+1.0
+0.720053835801
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_391.jpg
+1.0
+0.720430107527
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_757.jpg
+0.0
+0.719463087248
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_930.jpg
+1.0
+0.719839142091
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_114.jpg
+1.0
+0.720214190094
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_147.jpg
+1.0
+0.720588235294
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_594.jpg
+1.0
+0.720961281709
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_613.jpg
+1.0
+0.721333333333
+1 ./WIDER_val/images/9--Press_Conference/9_Press_Conference_Press_Conference_9_521.jpg
+1.0
+0.721704394141
+accuracy over all = 0.721704394141
